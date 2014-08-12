@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+    <style>
+        html, body, #map { height: 100%; width: 100%; }
+        .leaflet-control-container { display: none; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+    <script>
+        var map = L.mapbox.map('map', 'derrr.j76hbnpg', {
+            accessToken: 'pk.eyJ1IjoiZGVycnIiLCJhIjoiRmkxNFdIYyJ9.j22g6xJNakO4bJQ1x7CTXA'
+            });
+
+        window.setTimeout(function() {
+            map.dragging.disable();
+            var container = $('.leaflet-tile-container.leaflet-zoom-animated');
+            container.find('img').draggable();
+        }, 500);
+    </script>
+</body>
+</html>
