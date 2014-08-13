@@ -4,6 +4,8 @@ angular.module('talkyApp.services', [])
 .service('slideData', [function() {
 
     var slides = [{
+        title: 'http://bit.ly/1prEqlN'
+    },{
         title: 'http://bit.ly/1AcvUdI'
     },{
         title: 'http://bit.ly/1AcwurY'
