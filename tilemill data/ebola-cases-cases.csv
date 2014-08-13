@@ -1,0 +1,1085 @@
+Category,Categorynumber,Country reporting,Latitude,Longitude,Severity,Outcome
+Confirmed,1,Guinea,9.5195153148,-13.6996984371,Fatal,Deceased
+Confirmed,1,Guinea,9.5186451092,-13.6938152222,NR,NR
+Confirmed,1,Guinea,9.5172053882,-13.6998700135,NR,NR
+Confirmed,1,Guinea,9.5170536486,-13.6961365999,Fatal,Deceased
+Confirmed,1,Guinea,9.5165696172,-13.6993285174,Fatal,Deceased
+Confirmed,1,Guinea,9.5191678919,-13.6988734833,NR,NR
+Confirmed,1,Guinea,9.5202999488,-13.6966902868,Fatal,Deceased
+Confirmed,1,Guinea,8.5652817614,-10.1336637088,Fatal,18/03/2014
+Confirmed,1,Guinea,8.5612009514,-10.1314090331,NR,NR
+Confirmed,1,Guinea,8.5619488544,-10.1285069364,Fatal,Deceased
+Confirmed,1,Guinea,8.5623745913,-10.1325319015,Fatal,Deceased
+Confirmed,1,Guinea,8.5620396552,-10.1298939446,Fatal,No
+Confirmed,1,Guinea,8.5622517467,-10.1311625824,Fatal,17/03/2014
+Confirmed,1,Guinea,8.5634192786,-10.1310342328,Fatal,18/03/2014
+Confirmed,1,Guinea,8.561034396,-10.1338922732,Fatal,Deceased
+Probable,2,Guinea,8.5613220386,-10.1311407255,Fatal,22/02/2014
+Probable,2,Guinea,8.5640269457,-10.1307266967,Fatal,28/02/2014
+Probable,2,Guinea,8.5632538538,-10.1325933933,Fatal,10/03/2014
+Probable,2,Guinea,8.5633885381,-10.1318677516,Fatal,16/03/2014
+Probable,2,Guinea,8.5604569256,-10.1327112401,Fatal,03/03/2014
+Probable,2,Guinea,8.5616886624,-10.1309849614,Fatal,09/03/2014
+Probable,2,Guinea,8.5603278042,-10.1294924375,Fatal,Deceased
+Probable,2,Guinea,8.5607417428,-10.1314426701,Fatal,12/03/2014
+Probable,2,Guinea,8.5624193813,-10.1313763589,Fatal,No
+Probable,2,Guinea,8.5611177495,-10.1286463459,Fatal,26/01/2014
+Probable,2,Guinea,8.5641113637,-10.1308994631,Fatal,Deceased
+Probable,2,Guinea,8.561129578,-10.1309878263,Fatal,11/02/2014
+Probable,2,Guinea,8.5656629365,-10.1316354612,Fatal,13/02/2014
+Probable,2,Guinea,8.5610532578,-10.1310500432,Fatal,16/02/2014
+Probable,2,Guinea,8.5611370241,-10.1286931857,Fatal,05/03/2014
+Probable,2,Guinea,8.5613399175,-10.1331094695,Fatal,12/03/2014
+Probable,2,Guinea,8.5598529039,-10.1307334441,Fatal,14/03/2014
+Probable,2,Guinea,8.5655847503,-10.1333191981,Fatal,01/03/2014
+Probable,2,Guinea,8.5628075663,-10.1299970991,Fatal,16/03/2014
+Probable,2,Guinea,8.5642296478,-10.1318493618,Fatal,16/03/2014
+Probable,2,Guinea,8.562835378,-10.132588938,Fatal,15/03/2014
+Probable,2,Guinea,8.5619868153,-10.1319931056,Fatal,04/03/2014
+Probable,2,Guinea,8.5623029767,-10.1321593664,Fatal,No
+Probable,2,Guinea,8.5631053875,-10.1311993612,Fatal,16/03/2014
+Probable,2,Guinea,8.5630662062,-10.1314409205,Fatal,20/03/2014
+Probable,2,Guinea,8.5641212802,-10.1309062055,Fatal,02/01/2014
+Probable,2,Guinea,8.5595473219,-10.1306206471,Fatal,05/01/2014
+Probable,2,Guinea,8.5621613511,-10.131588859,Fatal,11/01/2014
+Probable,2,Guinea,8.5621364886,-10.1297958252,Fatal,14/01/2014
+Probable,2,Guinea,8.5632579097,-10.1305263175,Fatal,19/01/2014
+Confirmed,1,Guinea,8.5441875416,-9.4668426603,Fatal,28/02/2014
+Confirmed,1,Guinea,8.5483599117,-9.4661013084,Fatal,16/03/2014
+Confirmed,1,Guinea,8.5510466892,-9.4632916522,Fatal,12/03/2014
+Confirmed,1,Guinea,8.5445983505,-9.4672447437,Fatal,16/03/2014
+Confirmed,1,Guinea,8.546435791,-9.4635765397,Fatal,21/03/2014
+Probable,2,Guinea,8.5453695405,-9.465201318,Fatal,10/02/2014
+Probable,2,Guinea,8.5468786215,-9.4681291387,Fatal,24/02/2014
+Probable,2,Guinea,8.5448522417,-9.4688018793,Fatal,25/02/2014
+Probable,2,Guinea,8.5444049443,-9.4656837785,Fatal,Deceased
+Probable,2,Guinea,8.5447931567,-9.4656104085,Fatal,14/03/2014
+Probable,2,Guinea,9.1899350861,-10.0980732331,Fatal,16/03/2014
+Probable,2,Guinea,9.1895228664,-10.100235915,Fatal,08/03/2014
+Probable,2,Guinea,9.1944287031,-10.0977583592,Fatal,20/03/2014
+Probable,2,Guinea,9.1906043149,-10.0984197554,Fatal,07/03/2014
+Probable,2,Guinea,10.7465492215,-11.1077740764,Fatal,18/03/2014
+Probable,2,Guinea,10.7430629845,-11.1081573813,Fatal,28/03/2014
+Probable,2,Guinea,11.295031647,-10.7114234879,Fatal,30/03/2014
+Confirmed,1,Guinea,9.5194040455,-13.6955490061,NR,NR
+Probable,2,Guinea,8.5637375505,-10.1342616636,Fatal,19/01/2014
+Probable,2,Guinea,8.5657929314,-10.131211582,Fatal,28/01/2014
+Probable,2,Guinea,8.5636797696,-10.1322062996,Fatal,22/01/2014
+Probable,2,Guinea,8.5668836792,-10.1317398748,Fatal,11/02/2014
+Probable,2,Guinea,10.8144522175,-11.4326020384,Fatal,No
+Confirmed,1,Guinea,9.5183702042,-13.69693214,NR,NR
+Confirmed,1,Guinea,9.5193386917,-13.699015097,NR,NR
+Confirmed,1,Guinea,9.5198618951,-13.7009503423,Fatal,Deceased
+Confirmed,1,Guinea,9.5188143937,-13.7001456195,Fatal,Deceased
+Confirmed,1,Guinea,9.5173576996,-13.6977672299,NR,NR
+Confirmed,1,Guinea,9.5160223171,-13.6993840329,NR,NR
+Confirmed,1,Guinea,9.5187038961,-13.6973887346,Fatal,Deceased
+Confirmed,1,Guinea,9.5193516482,-13.698611781,NR,NR
+Confirmed,1,Guinea,9.515708894,-13.6978499002,NR,NR
+Confirmed,1,Guinea,9.5208071444,-13.6973904176,NR,NR
+Confirmed,1,Guinea,8.5640211482,-10.1313076336,Fatal,Deceased
+Probable,2,Guinea,8.5603693614,-10.1310694348,Fatal,03/03/2014
+Probable,2,Guinea,8.5609179827,-10.1290226189,Fatal,03/03/2014
+Probable,2,Guinea,8.5609272568,-10.1324893767,Fatal,05/03/2014
+Probable,2,Guinea,8.5646709162,-10.1318890879,Fatal,05/02/2014
+Probable,2,Guinea,8.5622286353,-10.1301025427,Fatal,22/03/2014
+Probable,2,Guinea,8.564479501,-10.1305163721,Fatal,No
+Probable,2,Guinea,8.5594286088,-10.1254834398,Fatal,25/03/2014
+Probable,2,Guinea,8.5621704501,-10.1310395875,Fatal,Deceased
+Probable,2,Guinea,8.5616560302,-10.1315951367,Fatal,15/03/2014
+Probable,2,Guinea,8.5626147965,-10.1334318453,Fatal,04/04/2014
+Confirmed,1,Guinea,8.562055738,-10.128374674,Fatal,Deceased
+Confirmed,1,Guinea,8.5632668949,-10.1307734201,Fatal,22/03/2014
+Confirmed,1,Guinea,8.5635209034,-10.130663346,NR,NR
+Confirmed,1,Guinea,8.563407543,-10.129171247,Fatal,Deceased
+Confirmed,1,Guinea,8.5608226985,-10.133606042,NR,NR
+Probable,2,Guinea,8.5642377351,-10.1260632749,Fatal,No
+Confirmed,1,Guinea,8.5463598984,-9.4648950876,Fatal,No
+Confirmed,1,Guinea,8.5483792398,-9.4624134084,NR,No
+Confirmed,1,Guinea,8.5446801533,-9.4664635484,Fatal,No
+Confirmed,1,Guinea,9.5197688427,-13.6981554508,NR,NR
+Confirmed,1,Guinea,9.5190334662,-13.6960594833,Fatal,Deceased
+Confirmed,1,Guinea,9.5156354498,-13.6983077203,NR,NR
+Confirmed,1,Guinea,8.5628359178,-10.1307742904,Fatal,No
+Confirmed,1,Guinea,8.5652443277,-10.1321776195,Fatal,Deceased
+Confirmed,1,Guinea,8.5637867435,-10.1317650736,Fatal,Deceased
+Confirmed,1,Guinea,8.5601567869,-10.1327276119,Fatal,Deceased
+Confirmed,1,Guinea,8.5612881545,-10.1333634264,Fatal,Deceased
+Confirmed,1,Guinea,8.5608201636,-10.1298011231,Fatal,Deceased
+Confirmed,1,Guinea,8.5625320248,-10.1302996824,Fatal,Deceased
+Confirmed,1,Guinea,8.5629382194,-10.1325747459,NR,NR
+Confirmed,1,Guinea,8.5636280345,-10.1313636107,Fatal,Deceased
+Confirmed,1,Guinea,8.5613632882,-10.1338830711,Fatal,Deceased
+Confirmed,1,Guinea,8.544740063,-9.4673036235,Fatal,Deceased
+Confirmed,1,Guinea,10.8157260438,-11.4343284121,Fatal,No
+Probable,2,Guinea,9.5166777144,-13.6983370799,Fatal,18/03/2014
+Probable,2,Guinea,9.5178465527,-13.6965976766,Fatal,02/04/2014
+Probable,2,Guinea,9.5168348172,-13.6970166673,Fatal,12/03/2014
+Confirmed,1,Guinea,8.5633309071,-10.130185113,Fatal,Deceased
+Probable,2,Guinea,9.5156373096,-13.6961848158,Fatal,01/04/2014
+Confirmed,1,Guinea,9.5158435996,-13.6995069146,Fatal,Deceased
+Confirmed,1,Guinea,9.5179297504,-13.6965738123,Fatal,No
+Confirmed,1,Guinea,9.5186837107,-13.6996058478,NR,NR
+Confirmed,1,Guinea,9.5146038805,-13.6982639769,NR,NR
+Confirmed,1,Guinea,9.5222743519,-13.6959053952,NR,NR
+Confirmed,1,Guinea,9.518478278,-13.6928951955,Fatal,No
+Confirmed,1,Guinea,9.5188589434,-13.6992465005,NR,NR
+Confirmed,1,Guinea,8.5643675199,-10.1297274706,Fatal,Deceased
+Confirmed,1,Guinea,8.5643000041,-10.1321088337,NR,NR
+Confirmed,1,Guinea,8.5611446552,-10.1277914551,Fatal,Deceased
+Probable,2,Guinea,8.5603727942,-10.1320721255,Fatal,13/04/2014
+Confirmed,1,Guinea,8.5622495733,-10.1304115754,Fatal,24/04/2014
+Confirmed,1,Guinea,8.5606495311,-10.1306377523,NR,NR
+Confirmed,1,Guinea,8.5626435588,-10.133061323,Fatal,Deceased
+Confirmed,1,Guinea,8.5657017024,-10.1320695144,Fatal,No
+Confirmed,1,Guinea,8.5636617682,-10.1320819856,NR,NR
+Confirmed,1,Guinea,8.5613138248,-10.1326603913,Fatal,Deceased
+Confirmed,1,Guinea,8.5667827137,-10.133141588,Fatal,09/04/2014
+Confirmed,1,Guinea,8.5620240721,-10.13229511,NR,NR
+Confirmed,1,Guinea,8.5617177673,-10.1345186441,Fatal,10/04/2014
+Confirmed,1,Guinea,8.564603273,-10.1309368027,Fatal,Deceased
+Confirmed,1,Guinea,8.5638504947,-10.1313466259,NR,NR
+Confirmed,1,Guinea,8.560500906,-10.1303840873,Fatal,No
+Confirmed,1,Guinea,8.5614655563,-10.1315747288,Fatal,Deceased
+Confirmed,1,Guinea,9.5166897997,-13.6979517884,Fatal,No
+Confirmed,1,Guinea,9.518814315,-13.6997446347,NR,NR
+Confirmed,1,Guinea,9.5206673945,-13.7008701353,NR,NR
+Probable,2,Guinea,8.5607578574,-10.1317290593,Fatal,25/04/2014
+Confirmed,1,Guinea,9.5163196478,-13.6973680167,NR,NR
+Confirmed,1,Guinea,9.5162144806,-13.6991497756,NR,NR
+Confirmed,1,Guinea,8.5626891034,-10.1324127137,Fatal,12/04/2014
+Confirmed,1,Guinea,8.5633969856,-10.1291425547,Fatal,Deceased
+Confirmed,1,Guinea,9.5188882246,-13.6993677575,NR,NR
+Confirmed,1,Guinea,9.5193553795,-13.698812348,Fatal,No
+Confirmed,1,Guinea,8.5633856139,-10.1282667553,Fatal,Deceased
+Confirmed,1,Guinea,8.5607290636,-10.1331143936,Fatal,Deceased
+Confirmed,1,Guinea,8.5427351201,-9.4684502581,Fatal,Deceased
+Probable,2,Guinea,8.5609135199,-10.131913888,Fatal,25/04/2014
+Confirmed,1,Guinea,8.5627304351,-10.1318033474,Fatal,Deceased
+Confirmed,1,Guinea,9.5206618302,-13.6939032761,NR,NR
+Confirmed,1,Guinea,9.5202546943,-13.697501732,NR,NR
+Confirmed,1,Guinea,8.5630262322,-10.1310800059,NR,NR
+Confirmed,1,Guinea,8.5589741752,-10.1284876329,Fatal,Deceased
+Confirmed,1,Guinea,8.5607714278,-10.1284960073,Fatal,Deceased
+Confirmed,1,Guinea,9.519438774,-13.6991786639,Fatal,Deceased
+Confirmed,1,Guinea,8.5588366265,-10.1268535879,NR,NR
+Confirmed,1,Guinea,8.5626997755,-10.1329993312,NR,NR
+Confirmed,1,Guinea,8.5638939286,-10.1314532187,Fatal,13/04/2014
+Confirmed,1,Guinea,8.5618430163,-10.1273347755,Fatal,14/04/2014
+Confirmed,1,Guinea,8.5605075205,-10.1322401845,NR,NR
+Confirmed,1,Guinea,9.5174595698,-13.6997427684,NR,No
+Probable,2,Guinea,8.5608661186,-10.1311100657,Fatal,11/04/2014
+Probable,2,Guinea,8.5619135352,-10.1339388788,Fatal,24/04/2014
+Probable,2,Guinea,8.5626631821,-10.1326754928,Fatal,15/02/2014
+Probable,2,Guinea,8.561489362,-10.1292538052,Fatal,08/03/2014
+Confirmed,1,Guinea,8.5646080688,-10.1331990527,Fatal,15/04/2014
+Confirmed,1,Guinea,8.5629492507,-10.1332566954,Fatal,Deceased
+Confirmed,1,Guinea,8.560207968,-10.1327522725,Fatal,Deceased
+Confirmed,1,Guinea,8.5621383723,-10.128670987,Fatal,Deceased
+Confirmed,1,Guinea,8.5610857329,-10.13146207,Fatal,Deceased
+Confirmed,1,Guinea,8.5668450917,-10.1320360335,Fatal,19/04/2014
+Confirmed,1,Guinea,8.5606314155,-10.1287345607,Fatal,Deceased
+Confirmed,1,Guinea,8.5638228008,-10.1331144992,NR,NR
+Confirmed,1,Guinea,8.5643233291,-10.1323562884,Fatal,Deceased
+Confirmed,1,Guinea,8.5614657761,-10.1286638327,NR,NR
+Confirmed,1,Guinea,8.5633425511,-10.1333498,Fatal,Deceased
+Confirmed,1,Guinea,8.5608856379,-10.1320311358,NR,NR
+Confirmed,1,Guinea,8.5620493003,-10.1291113711,Fatal,27/04/2014
+Confirmed,1,Guinea,8.5634696813,-10.1315609322,Fatal,28/04/2014
+Confirmed,1,Guinea,8.563327111,-10.1313140281,Fatal,28/04/2014
+Confirmed,1,Guinea,8.5634351795,-10.1322705862,Fatal,Deceased
+Confirmed,1,Guinea,8.5661974476,-10.1324997722,Fatal,No
+Probable,2,Guinea,9.517546647,-13.6964874316,Fatal,Deceased
+Confirmed,1,Guinea,8.5611735457,-10.129632842,Fatal,Deceased
+Confirmed,1,Guinea,10.9020376638,-13.0335936024,Fatal,Deceased
+Confirmed,1,Guinea,9.5168742824,-13.6982497933,Fatal,Deceased
+Confirmed,1,Guinea,8.5639191407,-10.1269324955,Fatal,Deceased
+Confirmed,1,Guinea,8.5625588168,-10.1320429747,Fatal,Deceased
+Confirmed,1,Guinea,8.5611488269,-10.1292919199,NR,NR
+Confirmed,1,Guinea,8.5662982843,-10.1306558796,Fatal,Deceased
+Probable,2,Guinea,8.5451996171,-9.4677948091,Fatal,26/03/2014
+Confirmed,1,Guinea,8.542909549,-9.4655198938,NR,NR
+Confirmed,1,Guinea,8.5481187662,-9.4655963191,NR,NR
+Confirmed,1,Guinea,8.5442216557,-9.461883096,Fatal,Deceased
+Confirmed,1,Guinea,9.5193434932,-13.6990258756,NR,NR
+Confirmed,1,Guinea,9.5183466828,-13.6999402355,Fatal,Deceased
+Confirmed,1,Guinea,9.5180444042,-13.6975246356,Fatal,Deceased
+Confirmed,1,Guinea,8.560628292,-10.1305161299,Fatal,Deceased
+Confirmed,1,Guinea,8.5623832348,-10.1289790905,Fatal,Deceased
+Confirmed,1,Guinea,8.5619961583,-10.1319899035,NR,NR
+Probable,2,Guinea,8.5466091822,-9.4644979657,Fatal,28/03/2014
+Probable,2,Guinea,8.5466167069,-9.4648823345,Fatal,03/05/2014
+Probable,2,Guinea,8.5442428794,-9.4634077122,Fatal,18/05/2014
+Probable,2,Guinea,8.5481285705,-9.4648204385,Fatal,19/05/2014
+Confirmed,1,Guinea,8.5453922299,-9.4657238409,Fatal,Deceased
+Confirmed,1,Guinea,8.5626759144,-10.1324191354,Fatal,Deceased
+Confirmed,1,Guinea,8.5612686884,-10.1304871811,Fatal,Deceased
+Confirmed,1,Guinea,8.5494534409,-9.4647334009,NR,NR
+Confirmed,1,Guinea,8.5484128599,-9.4661932958,NR,NR
+Confirmed,1,Guinea,8.5462238858,-9.4611972941,NR,NR
+Confirmed,1,Guinea,8.5474696939,-9.4690784747,Fatal,Deceased
+Confirmed,1,Guinea,8.5641731206,-10.1303925545,NR,NR
+Confirmed,1,Guinea,8.5604316636,-10.1321309189,Fatal,Deceased
+Confirmed,1,Guinea,8.5654010789,-10.1330831539,NR,NR
+Confirmed,1,Guinea,8.5625324294,-10.1324511689,Fatal,Deceased
+Confirmed,1,Guinea,8.5635956899,-10.1315838505,Fatal,13/06/2014
+Confirmed,1,Guinea,8.5625508778,-10.130527402,Fatal,Deceased
+Confirmed,1,Guinea,8.5507587065,-9.4682628526,NR,NR
+Confirmed,1,Guinea,8.5461358194,-9.4650642707,Fatal,Deceased
+Confirmed,1,Guinea,8.5479474407,-9.46860997,Fatal,Deceased
+Probable,2,Guinea,10.905631014,-13.0333355633,Fatal,Deceased
+Confirmed,1,Guinea,10.9035178191,-13.0283396607,NR,No
+Confirmed,1,Guinea,10.9040058155,-13.0314453959,Fatal,Deceased
+Confirmed,1,Guinea,10.9055281284,-13.0309079265,NR,NR
+Confirmed,1,Guinea,10.9045583245,-13.0329841802,Fatal,No
+Confirmed,1,Guinea,10.9023971819,-13.0335791774,NR,NR
+Confirmed,1,Guinea,10.9034097528,-13.0319523919,NR,NR
+Confirmed,1,Guinea,10.9008632954,-13.0334850554,NR,NR
+Confirmed,1,Guinea,10.900892472,-13.0335710679,NR,NR
+Confirmed,1,Guinea,10.9046972424,-13.0281539357,NR,NR
+Confirmed,1,Guinea,10.9008628282,-13.0312533048,Fatal,Deceased
+Confirmed,1,Guinea,10.9008818645,-13.033149712,Fatal,No
+Confirmed,1,Guinea,10.9015612847,-13.0301271339,NR,NR
+Confirmed,1,Guinea,10.1878276787,-14.0366181447,Fatal,Deceased
+Confirmed,1,Guinea,10.189510766,-14.0374971742,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.277558652,-10.5709961366,NR,Recovered
+Confirmed,1,Sierra Leone,8.2801727041,-10.5731888438,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2756122595,-10.5721233651,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2760715454,-10.5752845686,NR,Recovered
+Confirmed,1,Sierra Leone,8.2792010201,-10.5735306163,Fatal,15/06/2014
+Confirmed,1,Sierra Leone,8.2760174157,-10.5739524634,Fatal,Deceased
+Confirmed,1,Guinea,9.5217541917,-13.7004226707,NR,NR
+Confirmed,1,Guinea,8.5625032865,-10.1310542541,Fatal,12/06/2014
+Confirmed,1,Guinea,8.5467146398,-9.4634057802,NR,NR
+Confirmed,1,Guinea,10.9023868055,-13.0312520624,NR,NR
+Confirmed,1,Guinea,10.9074943378,-13.0322324811,NR,No
+Confirmed,1,Guinea,10.9043946556,-13.0281374464,NR,No
+Confirmed,1,Guinea,10.1806804635,-14.0384261764,NR,NR
+Confirmed,1,Guinea,10.1820273345,-14.037786523,NR,NR
+Confirmed,1,Guinea,9.5189946163,-13.7001173201,Fatal,04/04/2014
+Confirmed,1,Guinea,9.5160448339,-13.6975935764,Fatal,Deceased
+Confirmed,1,Guinea,9.5222057975,-13.6979610827,NR,NR
+Confirmed,1,Guinea,9.5194071116,-13.6963394051,Fatal,Deceased
+Confirmed,1,Guinea,9.5163361143,-13.6972056875,Fatal,Deceased
+Confirmed,1,Guinea,9.5177180488,-13.6991114712,NR,NR
+Confirmed,1,Guinea,8.5661488779,-10.1289573702,Fatal,Deceased
+Confirmed,1,Guinea,8.543183361,-9.4686276699,Fatal,Deceased
+Confirmed,1,Guinea,10.9018440449,-13.0322412719,NR,NR
+Confirmed,1,Sierra Leone,8.2771484021,-10.5723564636,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2758050047,-10.573284328,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2776728345,-10.5693052425,NR,Recovered
+Confirmed,1,Sierra Leone,8.2759015973,-10.5734178298,NR,Recovered
+Confirmed,1,Sierra Leone,8.2760781419,-10.5744280442,NR,Recovered
+Confirmed,1,Sierra Leone,8.2772601075,-10.5720673645,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2768971715,-10.5716400777,Fatal,Yes
+Confirmed,1,Sierra Leone,8.2759467348,-10.5710037953,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2762276977,-10.5734849355,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2788445218,-10.5745495039,Fatal,19/06/2014
+Confirmed,1,Sierra Leone,8.2765558784,-10.5729144388,NR,27/06/2014
+Probable,2,Guinea,9.5202302832,-13.6982073065,Fatal,No
+Suspected,3,Guinea,9.5173027701,-13.6992862275,Fatal,Deceased
+Suspected,3,Guinea,9.5195669192,-13.7006473304,Fatal,No
+Confirmed,1,Guinea,9.5200286915,-13.7004391789,NR,NR
+Confirmed,1,Guinea,8.5613531489,-10.1312688563,Fatal,Deceased
+Confirmed,1,Guinea,8.5629595047,-10.1302835458,Fatal,11/06/2014
+Confirmed,1,Guinea,8.5637429914,-10.1305907764,Fatal,No
+Confirmed,1,Guinea,8.5642582259,-10.1315365602,Fatal,Deceased
+Confirmed,1,Guinea,8.5593019808,-10.1305796784,Fatal,09/06/2014
+Confirmed,1,Guinea,8.5630922943,-10.1310313573,NR,NR
+Confirmed,1,Guinea,8.5652577294,-10.1313240723,Fatal,Deceased
+Confirmed,1,Guinea,8.563008612,-10.1287826323,Fatal,Deceased
+Confirmed,1,Guinea,8.5637762344,-10.1299345665,Fatal,Deceased
+Confirmed,1,Guinea,8.5486364758,-9.4682562338,Fatal,Deceased
+Probable,2,Guinea,10.9019727776,-13.0298681901,Fatal,Deceased
+Probable,2,Guinea,10.9052812684,-13.030395168,Fatal,Yes
+Confirmed,1,Guinea,10.9034699194,-13.0318013082,NR,NR
+Confirmed,1,Guinea,10.9041771257,-13.0323547395,NR,No
+Probable,2,Guinea,10.1824659427,-14.0336986759,Fatal,23/05/2014
+Probable,2,Guinea,10.18346122,-14.0327098853,Fatal,30/05/2014
+Confirmed,1,Guinea,10.1797865874,-14.0348045649,Fatal,27/06/2014
+Confirmed,1,Guinea,10.181429366,-14.0383274624,Fatal,No
+Confirmed,1,Guinea,10.1820715127,-14.0379949707,Fatal,Deceased
+Confirmed,1,Guinea,10.1862034258,-14.0376875507,Fatal,01/06/2014
+Confirmed,1,Guinea,10.1799835351,-14.0377154314,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2788627056,-10.5736308889,NR,27/06/2014
+Confirmed,1,Sierra Leone,8.2751384756,-10.5746713332,Fatal,28/06/2014
+Confirmed,1,Sierra Leone,8.2751009204,-10.5718266395,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2757901599,-10.5742422074,NR,NR
+Confirmed,1,Sierra Leone,8.2814630169,-10.5713227147,NR,No
+Confirmed,1,Sierra Leone,8.2778405122,-10.5723919419,NR,NR
+Confirmed,1,Sierra Leone,8.2765514607,-10.5741468407,NR,NR
+Confirmed,1,Sierra Leone,8.2784805711,-10.5719739501,Fatal,NR
+Confirmed,1,Guinea,10.6524319046,-9.882241392,Fatal,No
+Confirmed,1,Guinea,8.5604696783,-10.1299403126,Fatal,Deceased
+Confirmed,1,Guinea,8.567231189,-10.1298070358,NR,NR
+Confirmed,1,Guinea,8.5586834075,-10.1320594386,Fatal,Deceased
+Confirmed,1,Guinea,8.563470321,-10.1337730458,Fatal,Deceased
+Confirmed,1,Guinea,8.5632672028,-10.13090458,NR,NR
+Confirmed,1,Guinea,8.5653234703,-10.1276592998,Fatal,07/06/2014
+Confirmed,1,Guinea,8.5627209164,-10.132415458,Fatal,Deceased
+Confirmed,1,Guinea,8.5617995301,-10.1331638727,Fatal,Deceased
+Confirmed,1,Guinea,8.5664901096,-10.1299501437,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2762909732,-10.572581769,NR,Recovered
+Confirmed,1,Sierra Leone,8.2761327442,-10.5732057879,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2760891237,-10.5707326878,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2797135994,-10.5727265595,NR,No
+Confirmed,1,Sierra Leone,8.2793442653,-10.5716591279,NR,NR
+Confirmed,1,Sierra Leone,8.2781164922,-10.5745935084,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2777954784,-10.5705136987,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2801947155,-10.5708074687,NR,NR
+Confirmed,1,Guinea,8.5629043518,-10.1323915965,Fatal,Deceased
+Confirmed,1,Guinea,8.560564521,-10.1298612679,Fatal,02/06/2014
+Confirmed,1,Guinea,8.5437768463,-9.4681435102,NR,NR
+Confirmed,1,Guinea,10.9040620033,-13.0304996492,NR,No
+Confirmed,1,Guinea,10.1865973007,-14.0376924924,NR,NR
+Confirmed,1,Sierra Leone,8.2755583668,-10.5726101873,NR,NR
+Confirmed,1,Sierra Leone,8.2780177397,-10.5704831526,NR,No
+Confirmed,1,Sierra Leone,8.2753782504,-10.570463209,NR,No
+Confirmed,1,Sierra Leone,8.2821924013,-10.5719353151,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2795609641,-10.5749247289,NR,NR
+Confirmed,1,Sierra Leone,8.2790501875,-10.5731201388,Fatal,NR
+Confirmed,1,Guinea,9.5162624527,-13.6965522231,Fatal,Deceased
+Confirmed,1,Guinea,8.5617335549,-10.1303727513,Fatal,Deceased
+Confirmed,1,Guinea,8.5606907655,-10.1316627475,Fatal,Deceased
+Confirmed,1,Guinea,8.5594570737,-10.1291593628,Fatal,Deceased
+Confirmed,1,Guinea,8.5609343754,-10.1315942981,Fatal,Deceased
+Confirmed,1,Guinea,8.5607420716,-10.1302016284,Fatal,Deceased
+Confirmed,1,Guinea,8.5630301065,-10.130674384,Fatal,Deceased
+Confirmed,1,Guinea,8.561012657,-10.1306167076,NR,NR
+Confirmed,1,Guinea,8.5622064374,-10.1296383389,Fatal,Deceased
+Confirmed,1,Guinea,8.5635157382,-10.1328100313,NR,NR
+Confirmed,1,Guinea,8.5637000652,-10.1312068764,Fatal,29/05/2014
+Confirmed,1,Guinea,8.562363732,-10.13221483,Fatal,29/05/2014
+Confirmed,1,Guinea,8.5639201489,-10.132623837,Fatal,Deceased
+Confirmed,1,Guinea,8.5641144448,-10.1290098789,Fatal,Deceased
+Confirmed,1,Guinea,9.189858963,-10.0963631288,Fatal,No
+Confirmed,1,Guinea,10.1850856931,-14.0345938829,NR,NR
+Confirmed,1,Sierra Leone,8.276857359,-10.5721670452,NR,
+Confirmed,1,Sierra Leone,8.2769443517,-10.5742146118,NR,No
+Confirmed,1,Sierra Leone,8.2758167552,-10.5742952295,Fatal,02/07/2014
+Confirmed,1,Sierra Leone,8.2759130889,-10.5739414794,Fatal,No
+Confirmed,1,Sierra Leone,8.2761713402,-10.573195708,NR,No
+Confirmed,1,Sierra Leone,8.2762996419,-10.5736125834,NR,Yes
+Confirmed,1,Sierra Leone,8.2764288756,-10.5728294118,NR,No
+Confirmed,1,Sierra Leone,8.2766889151,-10.5730408028,NR,
+Confirmed,1,Sierra Leone,8.278478257,-10.571483303,NR,Yes
+Confirmed,1,Sierra Leone,8.2786881771,-10.5733567015,NR,No
+Confirmed,1,Sierra Leone,8.278942013,-10.5721034398,NR,NR
+Confirmed,1,Sierra Leone,8.2782507937,-10.5733538161,NR,NR
+Confirmed,1,Sierra Leone,8.2762970178,-10.5712760354,NR,10/07/2014
+Confirmed,1,Sierra Leone,8.2757940078,-10.5710990819,NR,NR
+Confirmed,1,Sierra Leone,8.2760223923,-10.5705749916,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2765804118,-10.573402813,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2766131005,-10.570878895,NR,NR
+Confirmed,1,Sierra Leone,8.2753000955,-10.5750311692,NR,NR
+Confirmed,1,Sierra Leone,8.2796556496,-10.570600746,NR,No
+Confirmed,1,Sierra Leone,8.2781456948,-10.5715086411,NR,NR
+Confirmed,1,Sierra Leone,8.2756876537,-10.5733641209,NR,No
+Confirmed,1,Sierra Leone,8.2777977872,-10.5692875896,NR,15/07/2014
+Confirmed,1,Sierra Leone,8.275803288,-10.5707254115,NR,NR
+Confirmed,1,Guinea,8.5647543189,-10.1259809472,NR,NR
+Confirmed,1,Guinea,8.5631196147,-10.1322055175,Fatal,Deceased
+Confirmed,1,Guinea,8.562044688,-10.1310899532,NR,NR
+Confirmed,1,Guinea,8.5619819209,-10.128446071,Fatal,Deceased
+Confirmed,1,Guinea,8.5635898097,-10.1319860993,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2771687025,-10.570760254,NR,NR
+Confirmed,1,Sierra Leone,8.2778685423,-10.572532538,NR,No
+Confirmed,1,Sierra Leone,8.2819508601,-10.5720753326,NR,NR
+Confirmed,1,Sierra Leone,8.2765583863,-10.5708232245,NR,NR
+Confirmed,1,Sierra Leone,8.2771005521,-10.5688954971,NR,NR
+Confirmed,1,Sierra Leone,8.2775951784,-10.5718121027,NR,NR
+Confirmed,1,Sierra Leone,8.2774035808,-10.5754613478,NR,NR
+Confirmed,1,Sierra Leone,8.2773260766,-10.573579958,NR,NR
+Confirmed,1,Sierra Leone,8.2783437414,-10.5747660593,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2784053096,-10.5734827547,NR,NR
+Confirmed,1,Sierra Leone,8.2778507408,-10.5711169442,NR,NR
+Confirmed,1,Sierra Leone,8.2763807323,-10.5723730825,NR,NR
+Confirmed,1,Sierra Leone,8.2751756665,-10.5708906315,NR,No
+Confirmed,1,Guinea,10.1807232698,-14.0363246177,Fatal,08/06/2014
+Confirmed,1,Guinea,10.1809486713,-14.0389428518,Fatal,08/06/2014
+Confirmed,1,Guinea,9.5178940847,-13.7001736791,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2787628237,-10.568360174,NR,No
+Confirmed,1,Sierra Leone,8.2786295611,-10.5730800893,NR,NR
+Confirmed,1,Sierra Leone,8.2793479596,-10.5713807481,NR,No
+Confirmed,1,Sierra Leone,8.2775885858,-10.5714658665,NR,NR
+Confirmed,1,Sierra Leone,8.2794203244,-10.5729950765,NR,NR
+Confirmed,1,Sierra Leone,7.8878938643,-11.1847630281,NR,NR
+Confirmed,1,Guinea,8.5614799688,-10.1318403059,Fatal,10/05/2014
+Confirmed,1,Guinea,8.5611290263,-10.1315529196,NR,NR
+Confirmed,1,Guinea,8.5620004414,-10.130461616,Fatal,10/05/2014
+Confirmed,1,Guinea,10.9012258639,-13.0322690335,Fatal,Deceased
+Confirmed,1,Guinea,10.9042775753,-13.0293888641,Fatal,09/06/2014
+Confirmed,1,Guinea,10.1832127738,-14.0361115833,Fatal,Deceased
+Probable,2,Guinea,8.5486854444,-9.4665495442,Fatal,17/05/2014
+Confirmed,1,Guinea,8.5620850649,-10.1277683608,Fatal,Deceased
+Confirmed,1,Guinea,8.5608060529,-10.1320911937,Fatal,Deceased
+Confirmed,1,Guinea,8.5621030829,-10.1334994382,Fatal,Deceased
+Confirmed,1,Guinea,8.5597454872,-10.1307543715,NR,NR
+Confirmed,1,Guinea,10.1833985661,-14.0373551555,NR,NR
+Confirmed,1,Sierra Leone,8.2762768385,-10.5745434473,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2758998032,-10.5711699524,NR,NR
+Confirmed,1,Sierra Leone,8.2755675773,-10.5714667156,NR,NR
+Confirmed,1,Sierra Leone,8.2792443346,-10.5674113606,NR,NR
+Confirmed,1,Sierra Leone,8.2796624988,-10.5721490735,NR,NR
+Confirmed,1,Sierra Leone,8.2757273313,-10.5742667741,NR,NR
+Confirmed,1,Sierra Leone,8.2789598247,-10.5727415034,NR,NR
+Confirmed,1,Sierra Leone,8.2772703772,-10.5710795698,NR,
+Confirmed,1,Sierra Leone,8.2786202585,-10.5714799918,NR,NR
+Confirmed,1,Sierra Leone,8.2760476676,-10.5741445756,NR,No
+Confirmed,1,Sierra Leone,8.2777745858,-10.5748048347,NR,
+Confirmed,1,Sierra Leone,8.278447635,-10.5720697458,NR,
+Confirmed,1,Sierra Leone,8.2759606251,-10.5736061713,NR,NR
+Confirmed,1,Sierra Leone,8.2775321613,-10.5731656827,NR,
+Confirmed,1,Sierra Leone,8.2771106074,-10.5691746092,NR,NR
+Confirmed,1,Sierra Leone,8.2780436882,-10.5745864733,NR,NR
+Confirmed,1,Sierra Leone,8.2775188192,-10.571125202,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2798703578,-10.5711472215,NR,NR
+Confirmed,1,Sierra Leone,8.2754498363,-10.5749203649,NR,NR
+Confirmed,1,Sierra Leone,8.2777337186,-10.5704721434,NR,NR
+Confirmed,1,Sierra Leone,8.2768127921,-10.5698979576,NR,NR
+Confirmed,1,Sierra Leone,8.2777953043,-10.5738902819,NR,NR
+Confirmed,1,Sierra Leone,8.2749376883,-10.5699626504,NR,
+Confirmed,1,Sierra Leone,8.275890704,-10.5694690064,NR,NR
+Confirmed,1,Sierra Leone,8.2786112478,-10.5734798786,NR,NR
+Confirmed,1,Sierra Leone,8.2774819649,-10.5694999074,NR,NR
+Confirmed,1,Sierra Leone,8.2774303474,-10.5746118441,NR,NR
+Confirmed,1,Sierra Leone,8.2799470455,-10.5745378296,Fatal,02/06/2014
+Confirmed,1,Sierra Leone,8.2757914961,-10.5723849442,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8891736659,-11.1848279001,Fatal,No
+Confirmed,1,Sierra Leone,7.8851399059,-11.1818172502,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.88479144,-11.186651832,Fatal,No
+Confirmed,1,Sierra Leone,7.8880131463,-11.1834896927,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8876318482,-11.1837321623,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8858409334,-11.1832889147,Fatal,27/06/2014
+Confirmed,1,Sierra Leone,7.8881414861,-11.1856086612,Fatal,No
+Confirmed,1,Sierra Leone,8.2763705094,-10.5721022819,NR,NR
+Confirmed,1,Sierra Leone,8.279034217,-10.5725353024,NR,No
+Confirmed,1,Sierra Leone,8.276546145,-10.5696567466,NR,NR
+Confirmed,1,Sierra Leone,8.277211242,-10.5732212683,Fatal,08/06/2014
+Confirmed,1,Sierra Leone,8.2781675394,-10.5690949713,Fatal,13/06/2014
+Confirmed,1,Sierra Leone,8.27601665,-10.5724114741,NR,No
+Confirmed,1,Sierra Leone,8.2771902509,-10.5717819661,NR,No
+Confirmed,1,Sierra Leone,8.2780613947,-10.5751550298,Fatal,24/06/2014
+Confirmed,1,Sierra Leone,8.2779840882,-10.5738493172,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2759399729,-10.5725041705,Fatal,No
+Confirmed,1,Sierra Leone,8.2749316293,-10.5728916271,NR,Recovered
+Confirmed,1,Sierra Leone,8.2824426261,-10.5743951267,NR,NR
+Confirmed,1,Sierra Leone,8.2765737215,-10.5702441668,Fatal,30/05/2014
+Confirmed,1,Sierra Leone,8.2791642837,-10.5745276907,Fatal,06/06/2014
+Confirmed,1,Sierra Leone,8.2815777189,-10.5717274847,NR,NR
+Confirmed,1,Sierra Leone,8.2761604166,-10.5741776029,Fatal,27/05/2014
+Confirmed,1,Sierra Leone,8.2788650394,-10.5713581932,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.27930067,-10.5734827375,NR,NR
+Confirmed,1,Sierra Leone,8.2762201547,-10.5736586442,Fatal,12/06/2014
+Confirmed,1,Sierra Leone,8.2791594622,-10.5713268654,NR,
+Confirmed,1,Sierra Leone,8.2789147003,-10.5717346194,Fatal,15/06/2014
+Confirmed,1,Sierra Leone,8.2754582455,-10.5710868696,Fatal,11/07/2014
+Confirmed,1,Sierra Leone,8.2768008431,-10.5718646877,NR,No
+Confirmed,1,Sierra Leone,8.2769507933,-10.5737165524,NR,No
+Confirmed,1,Sierra Leone,8.2792839456,-10.5749371345,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2774405423,-10.5735291194,NR,NR
+Confirmed,1,Sierra Leone,8.2753945956,-10.5744529295,Fatal,06/06/2014
+Confirmed,1,Sierra Leone,8.2757391532,-10.5741024414,NR,11/06/2014
+Confirmed,1,Sierra Leone,8.2760362426,-10.5731727227,NR,30/05/2014
+Confirmed,1,Sierra Leone,7.8849351333,-11.1845059803,NR,Recovered
+Confirmed,1,Sierra Leone,7.8873226102,-11.1796421223,Fatal,01/07/2014
+Confirmed,1,Sierra Leone,7.8851829146,-11.1870930901,Fatal,No
+Confirmed,1,Sierra Leone,7.8847078637,-11.1854695105,NR,
+Confirmed,1,Sierra Leone,7.8849224649,-11.1798478672,NR,
+Confirmed,1,Sierra Leone,7.8873834301,-11.186869716,NR,19/06/2014
+Confirmed,1,Sierra Leone,7.8908760615,-11.1842649339,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8874729286,-11.1855506729,Fatal,22/06/2014
+Confirmed,1,Sierra Leone,7.8873852767,-11.1826305344,NR,27/06/2014
+Confirmed,1,Sierra Leone,7.8874525993,-11.1832584033,NR,24/06/2014
+Confirmed,1,Sierra Leone,7.8864483453,-11.1869706689,NR,04/07/2014
+Confirmed,1,Sierra Leone,7.8873302032,-11.1860706624,NR,06/07/2014
+Confirmed,1,Sierra Leone,7.8889021009,-11.1843414696,NR,NR
+Confirmed,1,Sierra Leone,7.88823616,-11.1858736752,NR,Recovered
+Confirmed,1,Sierra Leone,7.8869964245,-11.1841400073,NR,No
+Confirmed,1,Sierra Leone,7.8864524436,-11.1833466692,NR,NR
+Confirmed,1,Sierra Leone,7.8864760864,-11.1864127926,NR,NR
+Confirmed,1,Sierra Leone,7.8921189847,-11.1836827451,Fatal,Yes
+Confirmed,1,Sierra Leone,7.8875744681,-11.1846566425,Fatal,06/07/2014
+Confirmed,1,Sierra Leone,8.2803093594,-10.5727567447,NR,Yes
+Confirmed,1,Sierra Leone,8.2794965868,-10.570926789,NR,22/06/2014
+Confirmed,1,Guinea,9.5182429282,-13.6980880088,Fatal,Deceased
+Confirmed,1,Guinea,9.5160391197,-13.6974040168,Fatal,Deceased
+Confirmed,1,Guinea,9.5200005137,-13.6999517348,NR,NR
+Confirmed,1,Guinea,9.5184511066,-13.7001808723,NR,NR
+Confirmed,1,Guinea,8.5617580769,-10.1279551052,Fatal,08/07/2014
+Confirmed,1,Guinea,8.5604516172,-10.130597229,Fatal,12/07/2014
+Confirmed,1,Guinea,8.564340523,-10.1332397272,Fatal,12/07/2014
+Confirmed,1,Guinea,8.5621929383,-10.1304405375,Fatal,14/07/2014
+Confirmed,1,Guinea,8.5614847101,-10.1337635791,Fatal,Deceased
+Confirmed,1,Guinea,8.5636425984,-10.1300492421,Fatal,Deceased
+Confirmed,1,Guinea,8.5616797353,-10.1331794092,Fatal,Deceased
+Confirmed,1,Guinea,8.5599787665,-10.132854043,Fatal,24/06/2014
+Confirmed,1,Guinea,8.5626018955,-10.1319587958,NR,NR
+Confirmed,1,Guinea,8.5621367829,-10.129247086,Fatal,26/06/2014
+Confirmed,1,Guinea,8.5644730324,-10.1309359125,Fatal,Deceased
+Confirmed,1,Guinea,8.5634461331,-10.1331820623,Fatal,27/06/2014
+Confirmed,1,Guinea,8.5640343252,-10.1315977365,Fatal,27/06/2014
+Confirmed,1,Guinea,8.5620815582,-10.1296172007,Fatal,28/06/2014
+Confirmed,1,Guinea,8.5638470615,-10.1307113165,Fatal,Deceased
+Confirmed,1,Guinea,8.5635282187,-10.1312428731,Fatal,Deceased
+Confirmed,1,Guinea,8.5624643141,-10.1322975912,Fatal,07/07/2014
+Confirmed,1,Guinea,8.5620223386,-10.1324574663,Fatal,Deceased
+Confirmed,1,Guinea,8.5623550716,-10.1283244435,Fatal,Deceased
+Confirmed,1,Guinea,10.900351988,-13.0334150784,NR,NR
+Confirmed,1,Guinea,10.184050666,-14.0382002313,NR,NR
+Confirmed,1,Guinea,10.1801892762,-14.0381887223,Fatal,Deceased
+Confirmed,1,Guinea,10.1840329683,-14.0383686343,NR,NR
+Confirmed,1,Sierra Leone,7.8884391402,-11.1862910716,Fatal,06/07/2014
+Confirmed,1,Sierra Leone,7.8847552122,-11.1858312839,NR,15/07/2014
+Confirmed,1,Sierra Leone,7.887932322,-11.1843729541,NR,
+Confirmed,1,Sierra Leone,7.8882075225,-11.1838077176,Fatal,NR
+Confirmed,1,Sierra Leone,8.276500474,-10.571519883,NR,15/06/2014
+Confirmed,1,Sierra Leone,8.2760754151,-10.5688124258,Fatal,11/06/2014
+Probable,2,Liberia,6.4109915857,-10.605773025,Fatal,
+Probable,2,Liberia,6.4109373734,-10.6065871797,Fatal,
+Probable,2,Liberia,6.4105471204,-10.6060648348,NR,
+Probable,2,Liberia,6.4110236619,-10.6035715892,Fatal,
+Probable,2,Liberia,6.4102348954,-10.6048827464,Fatal,
+Probable,2,Liberia,6.4090142509,-10.6026804638,Fatal,
+Probable,2,Liberia,6.4123895368,-10.603437948,Fatal,
+Confirmed,1,Guinea,8.5638612442,-10.1289272599,Fatal,20/06/2014
+Probable,2,Guinea,8.5640688246,-10.1328954019,Fatal,09/05/2014
+Probable,2,Guinea,10.6500992606,-9.8766922991,Fatal,Deceased
+Probable,2,Guinea,10.6534664712,-9.8788727177,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8885789367,-11.1835511786,Fatal,10/07/2014
+Confirmed,1,Sierra Leone,7.8877948539,-11.1862253053,NR,No
+Confirmed,1,Sierra Leone,7.8866711782,-11.185711336,NR,No
+Confirmed,1,Sierra Leone,8.2780589758,-10.573407401,Fatal,17/06/2014
+Confirmed,1,Sierra Leone,8.2787439472,-10.5737477132,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2787113208,-10.5715040604,NR,Recovered
+Confirmed,1,Sierra Leone,8.2761696248,-10.5718951976,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.278713664,-10.5700983957,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2775783915,-10.5714656587,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2779274614,-10.5719246366,NR,NR
+Confirmed,1,Sierra Leone,8.2754537578,-10.573822592,Fatal,23/06/2014
+Confirmed,1,Sierra Leone,8.278091515,-10.5696495759,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2792857349,-10.5708364162,NR,No
+Confirmed,1,Sierra Leone,8.2802839,-10.5733212915,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2809014377,-10.5744530104,NR,No
+Confirmed,1,Sierra Leone,8.2778529804,-10.5703231379,NR,NR
+Confirmed,1,Sierra Leone,8.277894252,-10.5710365895,NR,No
+Confirmed,1,Sierra Leone,8.276330311,-10.5700762071,NR,15/07/2014
+Confirmed,1,Sierra Leone,8.2778452986,-10.573311489,NR,NR
+Confirmed,1,Sierra Leone,8.2793804731,-10.5740139763,NR,15/07/2014
+Confirmed,1,Sierra Leone,8.2804046959,-10.5721873548,NR,NR
+Confirmed,1,Sierra Leone,7.8856260666,-11.1818667394,NR,No
+Confirmed,1,Sierra Leone,7.8871292374,-11.1859772903,NR,•
+Confirmed,1,Sierra Leone,7.8855578736,-11.1882465781,NR,No
+Confirmed,1,Sierra Leone,7.8859548471,-11.1833745653,NR,NR
+Confirmed,1,Sierra Leone,7.8848219034,-11.1868320875,NR,No
+Confirmed,1,Sierra Leone,7.8869932696,-11.1827040954,Fatal,No
+Confirmed,1,Sierra Leone,8.2799561726,-10.5708569295,NR,NR
+Confirmed,1,Sierra Leone,8.2782603612,-10.5710193799,NR,NR
+Confirmed,1,Sierra Leone,8.2760559277,-10.5730638605,NR,NR
+Confirmed,1,Sierra Leone,8.2775544565,-10.572076428,NR,
+Confirmed,1,Sierra Leone,8.2788481999,-10.5743206883,NR,Recovered
+Confirmed,1,Sierra Leone,8.2759430847,-10.5696921989,Fatal,23/06/2014
+Confirmed,1,Sierra Leone,8.2794917252,-10.5691971423,NR,24/06/2014
+Confirmed,1,Sierra Leone,8.2762766731,-10.5731851806,NR,NR
+Confirmed,1,Sierra Leone,8.2783327599,-10.5701957444,NR,Recovered
+Confirmed,1,Sierra Leone,8.2794827882,-10.5702189807,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2789053701,-10.5711140866,NR,NR
+Confirmed,1,Sierra Leone,8.2756161182,-10.5709850388,NR,
+Confirmed,1,Sierra Leone,8.2788495767,-10.5741950351,NR,NR
+Confirmed,1,Sierra Leone,8.2759880959,-10.5714227806,NR,No
+Confirmed,1,Sierra Leone,9.1172979663,-12.9149033044,NR,06/06/2014
+Probable,2,Sierra Leone,8.2804921746,-10.5746670021,Fatal,Deceased
+Probable,2,Sierra Leone,8.279544899,-10.5744720105,Fatal,NR
+Probable,2,Sierra Leone,8.2749121926,-10.5700519442,Fatal,21/05/2014
+Probable,2,Sierra Leone,8.277366438,-10.572569378,Fatal,13/05/2014
+Probable,2,Sierra Leone,8.2756137617,-10.5727828859,Fatal,09/06/2014
+Probable,2,Sierra Leone,8.277249242,-10.5713314648,Fatal,03/06/2014
+Probable,2,Sierra Leone,8.2756476655,-10.5719176968,Fatal,08/06/2014
+Probable,2,Sierra Leone,8.2774639376,-10.573893715,Fatal,No
+Probable,2,Sierra Leone,8.2786447215,-10.5734240991,Fatal,NR
+Probable,2,Sierra Leone,8.2805944367,-10.5730506962,Fatal,No
+Probable,2,Sierra Leone,8.2802600029,-10.5718983809,Fatal,08/06/2014
+Probable,2,Sierra Leone,8.2781789261,-10.5733428734,Fatal,11/06/2014
+Probable,2,Sierra Leone,8.2783259213,-10.572527048,Fatal,09/06/2014
+Probable,2,Sierra Leone,8.2826153541,-10.5738222593,Fatal,18/05/2014
+Probable,2,Sierra Leone,8.2777768765,-10.5726836421,Fatal,28/05/2014
+Probable,2,Sierra Leone,8.2777491016,-10.5736972473,Fatal,23/05/2014
+Probable,2,Sierra Leone,8.2799788082,-10.572257919,Fatal,24/05/2014
+Probable,2,Sierra Leone,8.2767199824,-10.5726790869,Fatal,12/06/2014
+Probable,2,Sierra Leone,8.2758093955,-10.5718167549,Fatal,08/06/2014
+Probable,2,Sierra Leone,8.2786395426,-10.5713656846,Fatal,09/06/2014
+Probable,2,Sierra Leone,8.28271648,-10.5733247572,Fatal,04/06/2014
+Probable,2,Sierra Leone,8.2745612288,-10.5747280111,Fatal,02/06/2014
+Probable,2,Sierra Leone,8.2789238415,-10.5716301775,Fatal,08/06/2014
+Probable,2,Sierra Leone,8.2792219276,-10.5719197991,Fatal,10/06/2014
+Confirmed,1,Sierra Leone,8.278786853,-10.573119446,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2774782425,-10.5731500386,Fatal,No
+Confirmed,1,Sierra Leone,7.8861739437,-11.1848607228,Fatal,07/07/2014
+Confirmed,1,Sierra Leone,8.2772293429,-10.5741512886,NR,Recovered
+Confirmed,1,Sierra Leone,8.2774183587,-10.575692777,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2762095806,-10.5715736943,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2781331095,-10.5715063996,Fatal,NR
+Confirmed,1,Sierra Leone,8.2762060307,-10.5716734175,Fatal,Deceased
+Confirmed,1,Guinea,8.5636396641,-10.1318974102,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8897390981,-11.1868513418,Fatal,NR
+Confirmed,1,Sierra Leone,7.8881996316,-11.1867989459,NR,No
+Confirmed,1,Sierra Leone,7.9383043684,-11.3428682167,Fatal,Deceased
+Confirmed,1,Guinea,8.5616998555,-10.1315517115,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2795467121,-10.5737388193,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2775578319,-10.5740426031,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8888829559,-11.1793071784,NR,
+Confirmed,1,Sierra Leone,7.8860579154,-11.1849343466,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.884369593,-11.1865240689,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.887432815,-11.1847183426,NR,No
+Confirmed,1,Sierra Leone,7.887521131,-11.1826578955,Fatal,Deceased
+Confirmed,1,Guinea,9.5199897417,-13.696790247,Fatal,Deceased
+Confirmed,1,Guinea,8.5661447836,-10.1312541416,Fatal,Deceased
+Confirmed,1,Guinea,8.5611056876,-10.1323264529,Fatal,20/06/2014
+Confirmed,1,Guinea,8.562901335,-10.1322231034,Fatal,Deceased
+Confirmed,1,Guinea,8.5630972428,-10.1316853633,Fatal,Deceased
+Confirmed,1,Guinea,8.5599711457,-10.1329020986,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2778622047,-10.5713655406,NR,02/07/2014
+Confirmed,1,Sierra Leone,8.2772732767,-10.5747940373,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2782795965,-10.5727367474,NR,02/07/2014
+Confirmed,1,Sierra Leone,8.2769205988,-10.5696979871,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2757994274,-10.5717582252,NR,Recovered
+Confirmed,1,Sierra Leone,8.2826625179,-10.5721942053,NR,No
+Confirmed,1,Sierra Leone,8.2792947505,-10.5747474911,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.274946253,-10.5725121003,NR,02/07/2014
+Confirmed,1,Sierra Leone,8.2784272912,-10.5733221969,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2788898817,-10.5682158119,NR,NR
+Confirmed,1,Sierra Leone,8.2765825076,-10.5684966562,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2768633518,-10.5736764364,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2762008546,-10.5707324731,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2767684807,-10.573149312,NR,Recovered
+Confirmed,1,Sierra Leone,8.2790429992,-10.5685288931,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8853941212,-11.1869417418,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8860825816,-11.1866969615,NR,No
+Confirmed,1,Sierra Leone,7.8869209281,-11.1845046242,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8878605442,-11.1813225126,NR,Recovered
+Confirmed,1,Sierra Leone,7.8867426086,-11.1854639043,NR,Recovered
+Confirmed,1,Sierra Leone,7.8832375961,-11.1843201084,Fatal,NR
+Confirmed,1,Sierra Leone,8.2756659049,-10.5718558091,NR,Recovered
+Confirmed,1,Sierra Leone,8.2765696988,-10.5717690698,NR,No
+Confirmed,1,Sierra Leone,8.2757637871,-10.573336045,NR,NR
+Probable,2,Sierra Leone,8.2799768539,-10.5732520559,Fatal,NR
+Probable,2,Guinea,9.5197166381,-13.7005182219,Fatal,25/06/2014
+Confirmed,1,Guinea,8.5643394404,-10.1307559439,Fatal,13/06/2014
+Confirmed,1,Sierra Leone,8.2790514269,-10.5727996058,NR,
+Confirmed,1,Sierra Leone,8.2760704007,-10.5733870706,NR,NR
+Confirmed,1,Sierra Leone,8.2821661844,-10.570365759,NR,NR
+Confirmed,1,Sierra Leone,8.2793799707,-10.5735918602,NR,NR
+Confirmed,1,Sierra Leone,7.8828463566,-11.1836621259,Fatal,Yes
+Confirmed,1,Sierra Leone,7.8851749379,-11.1823601193,NR,Recovered
+Confirmed,1,Sierra Leone,7.9374325727,-11.3475408302,NR,NR
+Confirmed,1,Sierra Leone,8.2759338638,-10.5693105174,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2797346035,-10.5723763063,Fatal,Deceased
+Probable,2,Liberia,6.4084026629,-10.6027151723,Fatal,0
+Probable,2,Liberia,6.4125290268,-10.6051617415,Fatal,0
+Probable,2,Liberia,6.410482999,-10.6033159322,Fatal,0
+Probable,2,Liberia,6.4118575146,-10.60705846,Fatal,0
+Confirmed,1,Guinea,8.5633515665,-10.1334649894,Fatal,No
+Confirmed,1,Guinea,8.5642710283,-10.1334632799,Fatal,Deceased
+Confirmed,1,Guinea,8.5625882743,-10.1283938916,Fatal,Deceased
+Confirmed,1,Guinea,8.5647479078,-10.1305006165,Fatal,Deceased
+Probable,2,Guinea,9.5184799333,-13.6978147944,Fatal,No
+Probable,2,Guinea,8.5637493794,-10.1305743774,Fatal,27/04/2014
+Probable,2,Guinea,8.5619429919,-10.1309000807,Fatal,11/04/2014
+Probable,2,Guinea,8.560291591,-10.1319916039,Fatal,28/04/2014
+Probable,2,Guinea,8.5610019866,-10.1304446403,Fatal,23/05/2014
+Confirmed,1,Sierra Leone,8.2823183015,-10.575184705,NR,10/07/2014
+Confirmed,1,Sierra Leone,7.8847287242,-11.1818355954,NR,No
+Confirmed,1,Sierra Leone,7.8860611535,-11.1867731965,Fatal,NR
+Confirmed,1,Sierra Leone,8.2767653848,-10.5725874291,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8867198329,-11.1836005605,Fatal,NR
+Confirmed,1,Sierra Leone,7.8848516872,-11.1842889723,Fatal,No
+Confirmed,1,Sierra Leone,8.2802967736,-10.5723759415,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2772625286,-10.5715594884,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2766548891,-10.5739046614,NR,Recovered
+Confirmed,1,Sierra Leone,7.8854124709,-11.1829863293,NR,Yes
+Confirmed,1,Sierra Leone,7.889441922,-11.1826935409,NR,
+Confirmed,1,Sierra Leone,7.9385182837,-11.3456962119,NR,No
+Confirmed,1,Sierra Leone,8.2770504129,-10.5734506546,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2768394837,-10.5747532564,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2760484184,-10.5674036881,NR,21/06/2014
+Confirmed,1,Sierra Leone,8.2788115251,-10.5717913607,NR,
+Confirmed,1,Sierra Leone,8.2795884922,-10.5748171194,Fatal,23/06/2014
+Confirmed,1,Sierra Leone,8.2785022589,-10.5720450189,NR,22/06/2014
+Confirmed,1,Sierra Leone,8.2771047184,-10.5728361935,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2771710331,-10.5721054549,NR,No
+Confirmed,1,Sierra Leone,7.8884277992,-11.1849321898,Fatal,02/07/2014
+Confirmed,1,Sierra Leone,7.8868378782,-11.1853271869,NR,02/07/2014
+Confirmed,1,Sierra Leone,8.2760926126,-10.5721349126,Fatal,25/06/2014
+Confirmed,1,Sierra Leone,8.2780704377,-10.57266191,NR,Recovered
+Confirmed,1,Sierra Leone,8.2781605974,-10.5736841107,NR,Recovered
+Confirmed,1,Sierra Leone,8.2811575929,-10.5688758636,NR,Recovered
+Confirmed,1,Sierra Leone,8.277874191,-10.5727809598,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2798290807,-10.5743874319,NR,27/06/2014
+Confirmed,1,Sierra Leone,8.2776052397,-10.5728161672,Fatal,24/06/2014
+Confirmed,1,Sierra Leone,8.2783229116,-10.5710381538,NR,27/06/2014
+Confirmed,1,Sierra Leone,7.8845095184,-11.1855176505,NR,No
+Confirmed,1,Sierra Leone,7.8879503599,-11.1812718384,NR,No
+Confirmed,1,Sierra Leone,7.8888779239,-11.1851811547,NR,
+Confirmed,1,Sierra Leone,7.8864330683,-11.1821582943,Fatal,11/07/2014
+Confirmed,1,Sierra Leone,7.8846125433,-11.1857725757,Fatal,NR
+Confirmed,1,Guinea,8.5602470146,-10.1310185805,Fatal,23/06/2014
+Confirmed,1,Sierra Leone,7.8885836755,-11.1851777383,NR,11/07/2014
+Confirmed,1,Sierra Leone,8.2775041166,-10.5723477162,NR,NR
+Probable,2,Sierra Leone,8.2765794576,-10.5729187396,Fatal,NR
+Confirmed,1,Sierra Leone,8.2771533008,-10.5691603272,Fatal,07/06/2014
+Confirmed,1,Sierra Leone,8.2762070202,-10.5744023927,Fatal,05/06/2014
+Confirmed,1,Sierra Leone,8.2777123941,-10.5736495102,Fatal,06/06/2014
+Confirmed,1,Sierra Leone,8.2782942387,-10.5738780451,Fatal,07/06/2014
+Confirmed,1,Sierra Leone,8.2765484946,-10.5738343283,NR,
+Confirmed,1,Sierra Leone,8.2800408068,-10.5737089336,NR,
+Confirmed,1,Sierra Leone,8.2757611681,-10.5745115161,NR,
+Confirmed,1,Sierra Leone,8.2792277511,-10.5721862939,NR,
+Confirmed,1,Sierra Leone,8.2778247569,-10.5720779627,NR,
+Confirmed,1,Sierra Leone,8.2780789128,-10.5709588305,NR,
+Confirmed,1,Sierra Leone,8.2770004991,-10.5745425816,NR,
+Confirmed,1,Sierra Leone,8.2802879573,-10.5711878486,Fatal,06/06/2014
+Confirmed,1,Sierra Leone,8.2783002812,-10.5740743507,NR,
+Confirmed,1,Sierra Leone,8.2752512531,-10.5740562012,Fatal,12/06/2014
+Confirmed,1,Sierra Leone,8.2773251986,-10.5751794245,Fatal,08/06/2014
+Confirmed,1,Sierra Leone,7.8858268423,-11.1857250191,NR,NR
+Confirmed,1,Sierra Leone,7.8832856332,-11.1863423695,Fatal,NR
+Confirmed,1,Sierra Leone,7.8863067583,-11.1833820503,NR,Yes
+Confirmed,1,Sierra Leone,7.8890252536,-11.1803692759,NR,NR
+Confirmed,1,Sierra Leone,7.8850390251,-11.1829267632,NR,Yes
+Confirmed,1,Sierra Leone,7.8880504686,-11.1851555319,NR,No
+Confirmed,1,Sierra Leone,7.8870907129,-11.1822709929,Fatal,21/07/2014
+Confirmed,1,Sierra Leone,7.8858283753,-11.1833666015,NR,Yes
+Confirmed,1,Guinea,8.5609664494,-10.1268342895,Fatal,Deceased
+Confirmed,1,Guinea,8.5599863517,-10.1310812249,Fatal,Deceased
+Confirmed,1,Guinea,8.5618911315,-10.1325233853,NR,NR
+Confirmed,1,Guinea,8.560373654,-10.1322237745,Fatal,20/06/2014
+Confirmed,1,Sierra Leone,8.2777284889,-10.5717271337,NR,
+Confirmed,1,Sierra Leone,8.277809574,-10.571682032,Fatal,09/06/2014
+Confirmed,1,Sierra Leone,8.27803794,-10.5710267447,Fatal,18/06/2014
+Confirmed,1,Sierra Leone,8.279868078,-10.5710771313,Fatal,No
+Confirmed,1,Sierra Leone,8.2786619227,-10.5725141173,NR,NR
+Confirmed,1,Sierra Leone,8.2795990255,-10.5726734695,NR,NR
+Confirmed,1,Sierra Leone,8.2759628191,-10.5727064166,Fatal,NR
+Confirmed,1,Sierra Leone,8.2759940665,-10.5724720808,NR,NR
+Confirmed,1,Sierra Leone,8.2778508054,-10.5724967548,Fatal,NR
+Confirmed,1,Sierra Leone,8.275831791,-10.5743514285,NR,NR
+Confirmed,1,Sierra Leone,8.2775296719,-10.5732348341,Fatal,NR
+Confirmed,1,Sierra Leone,8.2768029743,-10.5713132134,Fatal,NR
+Confirmed,1,Sierra Leone,8.2756606588,-10.5704852176,Fatal,NR
+Confirmed,1,Sierra Leone,8.2770366329,-10.5719344744,Fatal,NR
+Confirmed,1,Sierra Leone,8.2779810115,-10.5706682437,NR,NR
+Confirmed,1,Sierra Leone,8.2788265687,-10.5709139136,NR,NR
+Confirmed,1,Sierra Leone,8.2773599971,-10.5723936503,Fatal,23/06/2014
+Confirmed,1,Sierra Leone,7.5253397845,-12.5025725843,NR,
+Probable,2,Liberia,6.4120052007,-10.6050345462,Fatal,
+Probable,2,Liberia,6.4094410356,-10.6036218041,Fatal,
+Probable,2,Liberia,6.4108260133,-10.6022629755,Fatal,
+Probable,2,Liberia,6.4110420723,-10.6024816445,Fatal,
+Probable,2,Liberia,6.4108222979,-10.6058708255,Fatal,
+Probable,2,Liberia,6.4096601098,-10.6059673882,Fatal,
+Probable,2,Liberia,6.4110376686,-10.6059776862,Fatal,
+Probable,2,Liberia,6.4084522743,-10.6033295095,Fatal,
+Probable,2,Liberia,6.4107185497,-10.6030836002,Fatal,
+Probable,2,Liberia,6.4080632424,-10.6050715814,NR,
+Probable,2,Guinea,10.187463844,-14.0362498491,Fatal,12/05/2014
+Probable,2,Liberia,6.4109117285,-10.6035171003,Fatal,
+Probable,2,Liberia,6.4120266152,-10.6015703056,Fatal,
+Probable,2,Liberia,6.4093419466,-10.6032903694,Fatal,
+Probable,2,Liberia,6.4089095753,-10.6019580857,Fatal,
+Confirmed,1,Sierra Leone,7.8863577486,-11.1864617504,NR,No
+Confirmed,1,Sierra Leone,7.8871872903,-11.183058573,NR,No
+Confirmed,1,Sierra Leone,7.8873511297,-11.1849981458,NR,No
+Confirmed,1,Sierra Leone,7.8883831242,-11.1836019842,NR,No
+Confirmed,1,Sierra Leone,7.8848797399,-11.1807848018,NR,NR
+Confirmed,1,Sierra Leone,7.8891298193,-11.1864475877,Fatal,NR
+Confirmed,1,Sierra Leone,7.888641963,-11.185146782,Fatal,NR
+Confirmed,1,Sierra Leone,7.8875210939,-11.1825999437,NR,No
+Confirmed,1,Guinea,9.5166236522,-13.6996322911,Fatal,Deceased
+Confirmed,1,Guinea,9.5158875245,-13.6979517189,NR,NR
+Confirmed,1,Guinea,9.5186529159,-13.6963737607,Fatal,Deceased
+Confirmed,1,Guinea,9.5170603663,-13.6978161657,NR,NR
+Confirmed,1,Guinea,9.5190734086,-13.7001408259,NR,NR
+Confirmed,1,Guinea,9.5181207219,-13.6933601156,NR,NR
+Confirmed,1,Guinea,9.5193623427,-13.6966999369,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8881794722,-11.1859434613,NR,
+Confirmed,1,Sierra Leone,7.8859665937,-11.180997471,NR,No
+Confirmed,1,Sierra Leone,7.8868167091,-11.1842093152,NR,NR
+Confirmed,1,Sierra Leone,7.8856480702,-11.1861510315,NR,NR
+Confirmed,1,Sierra Leone,7.8883913349,-11.1833937852,NR,No
+Confirmed,1,Sierra Leone,7.8884477505,-11.1855370192,NR,NR
+Confirmed,1,Sierra Leone,7.8869578488,-11.1849554263,NR,No
+Confirmed,1,Sierra Leone,7.8885895231,-11.182821671,NR,No
+Confirmed,1,Sierra Leone,7.8889463987,-11.1848115377,Fatal,19/07/2014
+Confirmed,1,Sierra Leone,7.8862353531,-11.1874302676,NR,NR
+Confirmed,1,Sierra Leone,7.885208543,-11.1867727239,Fatal,NR
+Confirmed,1,Sierra Leone,7.8882774242,-11.1852632264,Fatal,NR
+Confirmed,1,Sierra Leone,7.8880660346,-11.1798699743,Fatal,No
+Confirmed,1,Sierra Leone,7.889687297,-11.1853100822,Fatal,NR
+Confirmed,1,Sierra Leone,7.8879292218,-11.1817099567,NR,
+Confirmed,1,Sierra Leone,8.6876625297,-10.9162000505,NR,Yes
+Probable,2,Liberia,6.4085108614,-10.6013340708,NR,
+Probable,2,Liberia,6.4113636301,-10.6056041718,NR,
+Probable,2,Liberia,6.4130381366,-10.60443817,Fatal,
+Probable,2,Liberia,6.4122439296,-10.6067846531,Fatal,
+Probable,2,Liberia,6.4105878684,-10.6054906301,Fatal,
+Probable,2,Liberia,6.4085041196,-10.60512749,Fatal,
+Probable,2,Liberia,6.4114842157,-10.6040834361,Fatal,
+Probable,2,Liberia,6.4096218251,-10.6059701198,Fatal,
+Probable,2,Liberia,6.4098953794,-10.6050654605,Fatal,
+Probable,2,Liberia,6.4105289839,-10.6004644314,Fatal,
+Probable,2,Liberia,6.4088536097,-10.6016952344,Fatal,
+Probable,2,Liberia,6.4107608472,-10.5987804435,NR,
+Probable,2,Liberia,6.4088677409,-10.6051041821,NR,
+Probable,2,Liberia,6.4093430862,-10.6034308052,Fatal,
+Probable,2,Liberia,6.4114680864,-10.6058129855,Fatal,
+Confirmed,1,Sierra Leone,7.8853152176,-11.184337707,NR,No
+Confirmed,1,Sierra Leone,7.8870997699,-11.1875398616,NR,Yes
+Confirmed,1,Sierra Leone,7.8867344613,-11.1853870725,NR,No
+Confirmed,1,Sierra Leone,7.8882221869,-11.1869705088,NR,No
+Confirmed,1,Sierra Leone,7.8879395031,-11.1818303058,NR,No
+Confirmed,1,Sierra Leone,7.8883177819,-11.1870788704,NR,No
+Confirmed,1,Sierra Leone,7.8876373094,-11.1848429832,NR,No
+Confirmed,1,Guinea,9.5185065211,-13.698637226,NR,NR
+Suspected,3,Guinea,9.515867326,-13.6978316481,NR,NR
+Suspected,3,Guinea,9.5196170524,-13.6961312577,NR,NR
+Suspected,3,Guinea,9.5165943775,-13.6996439161,NR,NR
+Confirmed,1,Guinea,8.5455530061,-9.4654190348,Fatal,28/07/2014
+Confirmed,1,Guinea,11.4178729678,-9.1738384216,NR,NR
+Confirmed,1,Guinea,11.4169007314,-9.1710116728,Fatal,27/07/2014
+Confirmed,1,Guinea,8.5605225021,-10.1334101389,Fatal,Deceased
+Confirmed,1,Guinea,7.7595917347,-8.8165368221,NR,NR
+Confirmed,1,Guinea,7.7565459361,-8.8173959242,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2775977882,-10.5721362288,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.9355093932,-11.3482002986,NR,No
+Probable,2,Liberia,6.4090967498,-10.6043240839,NR,
+Confirmed,1,Sierra Leone,7.9357783117,-11.3482996892,NR,11/07/2014
+Probable,2,Liberia,6.4073406825,-10.6063808936,NR,
+Probable,2,Liberia,6.4111639134,-10.6046788169,Fatal,
+Probable,2,Guinea,10.1874702764,-14.0371127219,Fatal,26/05/2014
+Confirmed,1,Guinea,8.5600761033,-10.132709321,Fatal,21/07/2014
+Probable,2,Guinea,8.5632093602,-10.1297280766,Fatal,14/05/2014
+Probable,2,Guinea,8.5611825739,-10.1329715869,Fatal,26/05/2014
+Confirmed,1,Sierra Leone,8.2752514192,-10.5745893281,NR,No
+Confirmed,1,Guinea,8.5665622848,-10.1331903465,Fatal,Deceased
+Probable,2,Guinea,8.5614525828,-10.1316436251,Fatal,24/05/2014
+Probable,2,Guinea,8.5621823639,-10.1334646353,Fatal,22/05/2014
+Confirmed,1,Guinea,8.5618624687,-10.1327238087,Fatal,Deceased
+Confirmed,1,Guinea,9.5175806279,-13.6999955781,NR,NR
+Confirmed,1,Guinea,9.5159869983,-13.6961085659,NR,NR
+Confirmed,1,Guinea,9.5182276509,-13.6984858005,NR,NR
+Confirmed,1,Guinea,9.5166024447,-13.6977856614,Fatal,24/07/2014
+Confirmed,1,Guinea,9.5159233971,-13.6967190746,NR,NR
+Confirmed,1,Guinea,8.5625659414,-10.1306896371,Fatal,Deceased
+Confirmed,1,Guinea,8.5618240597,-10.1326246609,NR,NR
+Probable,2,Guinea,8.5601425576,-10.1305053908,Fatal,29/05/2014
+Probable,2,Guinea,8.564891799,-10.1312936496,Fatal,No
+Probable,2,Guinea,8.5645730009,-10.1279652346,Fatal,10/06/2014
+Probable,2,Guinea,8.5633135714,-10.1297070925,Fatal,28/06/2014
+Probable,2,Guinea,8.5629013516,-10.1304881457,Fatal,17/06/2014
+Probable,2,Guinea,8.5592388204,-10.1318477301,Fatal,No
+Probable,2,Guinea,8.5614974327,-10.1318762862,Fatal,19/06/2014
+Probable,2,Guinea,8.5637317665,-10.1318952023,Fatal,25/06/2014
+Probable,2,Guinea,8.5664770942,-10.1332032285,Fatal,07/07/2014
+Probable,2,Guinea,8.5608466171,-10.1300321525,Fatal,09/06/2014
+Probable,2,Liberia,6.411429873,-10.6057277033,NR,
+Probable,2,Liberia,6.4086289781,-10.6046867394,Fatal,
+Confirmed,1,Guinea,9.5173386622,-13.6995011408,NR,NR
+Confirmed,1,Guinea,9.5171777996,-13.6958788873,Fatal,Deceased
+Probable,2,Liberia,6.4091694266,-10.5999605746,Fatal,
+Probable,2,Liberia,6.4092625632,-10.6056072184,Fatal,
+Probable,2,Liberia,6.4124070723,-10.6043261762,Fatal,
+Probable,2,Liberia,6.4119579187,-10.6026515406,NR,
+Confirmed,1,Sierra Leone,7.9386386845,-11.3481121925,NR,
+Confirmed,1,Sierra Leone,7.9376409098,-11.3434885809,NR,
+Confirmed,1,Sierra Leone,7.9376845769,-11.3468969067,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.9396091998,-11.3437486925,NR,No
+Confirmed,1,Sierra Leone,7.9371697299,-11.3445201986,Fatal,11/07/2014
+Confirmed,1,Guinea,9.5158856883,-13.6984964401,NR,NR
+Confirmed,1,Sierra Leone,7.8895924728,-11.1806662139,NR,
+Confirmed,1,Sierra Leone,7.8868159988,-11.1847674002,NR,
+Confirmed,1,Sierra Leone,7.8864930818,-11.1816282967,NR,No
+Confirmed,1,Sierra Leone,7.8859851643,-11.1832009491,NR,NR
+Confirmed,1,Sierra Leone,7.8884277361,-11.1842124762,NR,No
+Confirmed,1,Sierra Leone,7.8861834558,-11.1871541265,NR,No
+Confirmed,1,Sierra Leone,7.8875436495,-11.1865681908,NR,
+Confirmed,1,Sierra Leone,7.8888440025,-11.186446545,NR,
+Confirmed,1,Sierra Leone,7.8850577864,-11.187177309,NR,No
+Confirmed,1,Sierra Leone,7.886420707,-11.1833821257,NR,31/07/2014
+Confirmed,1,Sierra Leone,7.8846456993,-11.1833478337,NR,31/07/2014
+Confirmed,1,Sierra Leone,7.8879641575,-11.1836448802,NR,31/07/2014
+Confirmed,1,Sierra Leone,7.8867246492,-11.1840337745,Fatal,30/07/2014
+Confirmed,1,Sierra Leone,7.8874435025,-11.1842571415,NR,No
+Confirmed,1,Sierra Leone,7.8867567733,-11.1848216162,NR,No
+Confirmed,1,Sierra Leone,7.8848972129,-11.1845731241,NR,No
+Confirmed,1,Sierra Leone,7.8901248612,-11.1828305117,NR,
+Confirmed,1,Sierra Leone,7.8848120972,-11.1854352805,NR,
+Confirmed,1,Sierra Leone,7.8866646682,-11.1824780796,NR,
+Confirmed,1,Sierra Leone,7.8850862112,-11.182457959,NR,No
+Confirmed,1,Sierra Leone,7.8871567813,-11.1851915793,NR,No
+Confirmed,1,Sierra Leone,7.8867620995,-11.1845412969,NR,No
+Confirmed,1,Sierra Leone,7.8834898411,-11.1853096468,NR,No
+Confirmed,1,Sierra Leone,7.8873404426,-11.183651043,NR,
+Confirmed,1,Sierra Leone,7.8875301019,-11.1837297119,NR,
+Confirmed,1,Sierra Leone,7.8848803124,-11.1864127182,NR,
+Confirmed,1,Sierra Leone,7.8867756355,-11.1822014705,NR,No
+Confirmed,1,Sierra Leone,7.8885370989,-11.1825600379,NR,No
+Confirmed,1,Sierra Leone,7.8872522508,-11.1865538329,NR,No
+Confirmed,1,Sierra Leone,7.8863199471,-11.1865119514,NR,
+Confirmed,1,Sierra Leone,8.7665717059,-12.7802773797,NR,NR
+Confirmed,1,Guinea,9.16800505,-11.4190839743,Fatal,30/07/2014
+Probable,2,Liberia,6.4112900745,-10.6035519609,Fatal,
+Probable,2,Liberia,6.4082143996,-10.6040879754,Fatal,
+Probable,2,Liberia,6.409564464,-10.6024677073,Fatal,
+Probable,2,Liberia,6.4100561343,-10.6021458339,Fatal,
+Confirmed,1,Guinea,8.5648503494,-10.1316161512,Fatal,24/07/2014
+Confirmed,1,Guinea,8.5615752091,-10.129353535,Fatal,24/07/2014
+Probable,2,Liberia,6.4100308364,-10.6029204365,Fatal,
+Probable,2,Liberia,6.4099349711,-10.6040390948,Fatal,
+Confirmed,1,Guinea,8.5448297722,-9.4689250241,Fatal,16/07/2014
+Confirmed,1,Sierra Leone,8.277123755,-10.5684921339,NR,
+Probable,2,Sierra Leone,8.276162414,-10.5696031882,Fatal,NR
+Probable,2,Sierra Leone,8.2756845551,-10.574172974,Fatal,NR
+Confirmed,1,Sierra Leone,8.1603612959,-12.4303528174,Fatal,NR
+Confirmed,1,Guinea,9.5165126336,-13.698633263,NR,NR
+Confirmed,1,Guinea,8.5639490686,-10.1331974088,Fatal,Deceased
+Confirmed,1,Guinea,8.5607658879,-10.1321478431,Fatal,31/07/2014
+Confirmed,1,Sierra Leone,7.8849074315,-11.1831181763,Fatal,31/07/2014
+Confirmed,1,Sierra Leone,8.7672364403,-12.7774516872,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.763305295,-12.7749827794,NR,NR
+Confirmed,1,Sierra Leone,8.7650238195,-12.7789509057,Fatal,Deceased
+Confirmed,1,Sierra Leone,9.039172065,-11.6518592523,NR,Yes
+Probable,2,Liberia,6.4097657117,-10.6046163943,Fatal,0
+Probable,2,Guinea,8.5639762667,-10.1335428864,Fatal,07/07/2014
+Probable,2,Guinea,8.5633860759,-10.1312436563,Fatal,21/07/2014
+Probable,2,Guinea,8.560686917,-10.1327934111,Fatal,10/06/2014
+Probable,2,Guinea,8.5616726583,-10.1312518014,Fatal,26/06/2014
+Probable,2,Guinea,8.5637000548,-10.1325047202,Fatal,24/06/2014
+Probable,2,Guinea,8.562795976,-10.1293357649,Fatal,01/07/2014
+Probable,2,Guinea,8.5620180805,-10.1336408426,Fatal,08/07/2014
+Probable,2,Guinea,8.5622399433,-10.1328037003,Fatal,10/07/2014
+Probable,2,Guinea,8.563402967,-10.1325383196,Fatal,12/07/2014
+Probable,2,Guinea,8.5610193243,-10.1291749097,Fatal,22/07/2014
+Probable,2,Guinea,8.5608131179,-10.1329923505,Fatal,12/06/2014
+Probable,2,Guinea,8.5653658376,-10.1313772635,Fatal,23/06/2014
+Probable,2,Guinea,8.5626264831,-10.1336683916,Fatal,08/07/2014
+Probable,2,Liberia,6.4097404309,-10.6059724907,Fatal,0
+Probable,2,Liberia,6.4107999677,-10.603108439,Fatal,0
+Confirmed,1,Guinea,11.4212864201,-9.1692256028,NR,NR
+Confirmed,1,Guinea,11.4201855616,-9.1715989557,NR,NR
+Confirmed,1,Guinea,9.5153992383,-13.7006904332,NR,NR
+Confirmed,1,Guinea,8.5481449757,-9.4669708995,NR,No
+Probable,2,Guinea,8.5650805286,-10.1295280786,Fatal,26/06/2014
+Probable,2,Guinea,8.56298099,-10.1334003891,Fatal,22/06/2014
+Probable,2,Guinea,8.559506632,-10.1306829849,Fatal,04/07/2014
+Probable,2,Guinea,8.5613915504,-10.1298877395,Fatal,06/07/2014
+Probable,2,Guinea,8.5622076906,-10.1298253512,Fatal,07/07/2014
+Probable,2,Guinea,8.5638439104,-10.130476632,Fatal,09/07/2014
+Probable,2,Guinea,8.5634658281,-10.1295046815,Fatal,09/07/2014
+Probable,2,Guinea,8.561815589,-10.1302155297,Fatal,15/07/2014
+Probable,2,Guinea,8.5606446346,-10.1336590903,Fatal,11/07/2014
+Probable,2,Guinea,8.562492231,-10.1292500066,Fatal,20/07/2014
+Confirmed,1,Guinea,8.5612302815,-10.1313248643,NR,No
+Confirmed,1,Guinea,7.7559237666,-8.8151463693,NR,NR
+Probable,2,Guinea,11.0571847731,-12.3911978124,Fatal,No
+Probable,2,Guinea,10.1787200557,-14.0345672463,Fatal,04/07/2014
+Confirmed,1,Sierra Leone,8.2766666168,-10.574647385,Fatal,Deceased
+Confirmed,1,Sierra Leone,8.2789542517,-10.5730015804,NR,NR
+Confirmed,1,Sierra Leone,8.2777335958,-10.5709090806,NR,NR
+Confirmed,1,Sierra Leone,8.2766030336,-10.5705302007,NR,NR
+Confirmed,1,Sierra Leone,8.2769441205,-10.5708368457,NR,NR
+Confirmed,1,Sierra Leone,8.2833611874,-10.5739397366,NR,13/07/2014
+Confirmed,1,Sierra Leone,7.8853368259,-11.1837138869,Fatal,19/07/2014
+Confirmed,1,Sierra Leone,7.8851382312,-11.1863803067,NR,No
+Confirmed,1,Sierra Leone,7.8852885127,-11.1869336245,Fatal,NR
+Confirmed,1,Sierra Leone,7.8874784424,-11.1830605461,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8868034653,-11.1819170025,Fatal in Kailahun TC,No
+Confirmed,1,Sierra Leone,7.8852366097,-11.1817228468,Fatal in Kailahun TC,yes
+Confirmed,1,Sierra Leone,7.8853628861,-11.1864907505,NR,No
+Confirmed,1,Sierra Leone,7.8894327879,-11.1845204959,NR,
+Confirmed,1,Sierra Leone,7.8872979143,-11.1835371279,Fatal,NR
+Confirmed,1,Sierra Leone,7.8850364076,-11.1862187193,Fatal,NR
+Confirmed,1,Sierra Leone,7.8886939786,-11.1832385128,NR,
+Confirmed,1,Sierra Leone,7.8879617441,-11.1853944177,NR,No
+Confirmed,1,Sierra Leone,7.8853147673,-11.179292125,NR,No
+Confirmed,1,Sierra Leone,7.8859421604,-11.1837737441,NR,No
+Confirmed,1,Sierra Leone,7.8842845073,-11.184459483,NR,NR
+Confirmed,1,Sierra Leone,8.7623214628,-12.777737559,NR,
+Confirmed,1,Sierra Leone,7.8857064829,-11.186541085,Fatal,19/07/2014
+Confirmed,1,Sierra Leone,7.8847894185,-11.1831513738,Fatal,18/07/2014
+Confirmed,1,Sierra Leone,7.885038319,-11.1830887694,Fatal,19/07/2014
+Confirmed,1,Sierra Leone,7.8850449117,-11.1857311852,NR,
+Confirmed,1,Sierra Leone,7.88981208,-11.1843495149,NR,
+Confirmed,1,Sierra Leone,7.8854079544,-11.1847740276,NR,
+Confirmed,1,Sierra Leone,7.8877407791,-11.1858828381,NR,No
+Confirmed,1,Sierra Leone,7.8855750207,-11.1855323815,NR,No
+Confirmed,1,Sierra Leone,7.8870023879,-11.1829806302,NR,NR
+Confirmed,1,Sierra Leone,7.8914281052,-11.1855337921,NR,NR
+Confirmed,1,Sierra Leone,7.8852441617,-11.1843875534,Fatal,21/07/2014
+Confirmed,1,Sierra Leone,7.8910666816,-11.1853269105,NR,No
+Confirmed,1,Sierra Leone,9.2378940497,-12.1110465652,Fatal,Deceased
+Confirmed,1,Sierra Leone,9.2395943815,-12.1131429556,NR,NR
+Confirmed,1,Sierra Leone,9.2399763597,-12.1130295092,NR,NR
+Confirmed,1,Sierra Leone,9.241562609,-12.1117610328,NR,NR
+Confirmed,1,Sierra Leone,9.2386904291,-12.1127093762,Fatal,Deceased
+Confirmed,1,Guinea,9.5200512062,-13.6979010883,NR,NR
+Confirmed,1,Guinea,9.5192535376,-13.698410617,Fatal,No
+Confirmed,1,Guinea,8.5638967053,-10.1327363972,Fatal,Deceased
+Confirmed,1,Guinea,8.563680083,-10.1326670766,NR,NR
+Confirmed,1,Guinea,8.5619050581,-10.1302645698,NR,NR
+Confirmed,1,Guinea,8.5603304272,-10.1280501021,NR,NR
+Confirmed,1,Guinea,8.5628170085,-10.1293651778,Fatal,04/08/2014
+Confirmed,1,Guinea,9.1926456966,-10.1005209644,NR,No
+Confirmed,1,Guinea,11.4176138582,-9.1734560143,Fatal,02/08/2014
+Probable,2,Liberia,6.4095982314,-10.6016460498,NR,
+Probable,2,Liberia,6.4100907806,-10.6015197161,Fatal,0
+Probable,2,Liberia,6.4087118195,-10.6032796118,Fatal,0
+Confirmed,1,Sierra Leone,8.2776639749,-10.573498054,Fatal,04/06/2014
+Confirmed,1,Sierra Leone,8.2788092327,-10.574690328,Fatal,04/06/2014
+Confirmed,1,Sierra Leone,8.278677664,-10.5686255835,Fatal,04/06/2014
+Confirmed,1,Sierra Leone,8.2755972775,-10.570418081,NR,Yes
+Confirmed,1,Sierra Leone,8.2766457175,-10.5700837409,NR ,Recovered 
+Confirmed,1,Sierra Leone,8.2751903435,-10.572572366,Fatal,NR
+Confirmed,1,Sierra Leone,8.2764084604,-10.5720846142,Fatal,16/06/2014
+Confirmed,1,Sierra Leone,8.2772079696,-10.5680849634,NR,No
+Confirmed,1,Sierra Leone,7.8877046961,-11.1868937941,Fatal,Yes
+Confirmed,1,Sierra Leone,7.8864024036,-11.1833329146,Fatal,Deceased
+Confirmed,1,Sierra Leone,7.8861310803,-11.1872462576,Fatal,No
+Confirmed,1,Sierra Leone,7.8875036594,-11.1850249147,Fatal,05/07/2014
+Confirmed,1,Sierra Leone,7.8858764175,-11.185053634,Fatal,No
+Confirmed,1,Sierra Leone,7.8857209459,-11.184190741,Fatal,10/07/2014
+Confirmed,1,Sierra Leone,7.8898722345,-11.1865138611,Fatal,No
+Confirmed,1,Sierra Leone,7.8850324618,-11.1804574567,NR,No
+Confirmed,1,Sierra Leone,7.8857327598,-11.1828759484,Fatal,NR
+Confirmed,1,Sierra Leone,7.887978967,-11.1834186484,NR,Recovered
+Confirmed,1,Sierra Leone,7.8866179867,-11.1852808018,NR,
+Confirmed,1,Sierra Leone,7.8849514999,-11.1857078428,NR,NR
+Confirmed,1,Sierra Leone,7.8846430834,-11.1859210541,NR,No
+Probable,2,Sierra Leone,7.8863852831,-11.1831522003,Fatal,07/06/2014
+Probable,2,Sierra Leone,7.8865340358,-11.1880296344,Fatal,05/07/2014
+Probable,2,Sierra Leone,7.885849062,-11.1848656599,Fatal,NR
+Probable,2,Sierra Leone,7.8856723173,-11.1832629915,Fatal,NR
+Confirmed,1,Sierra Leone,7.8877947638,-11.1805282253,NR,15/07/2014
+Suspected,3,Sierra Leone,7.9358997648,-11.3478987214,NR,NR
+Confirmed,1,Sierra Leone,8.4614565172,-13.2301526711,Fatal,31/07/2014
+Confirmed,1,Sierra Leone,8.463044235,-13.2326580786,Fatal,31/07/2014
+Confirmed,1,Sierra Leone,8.4610740967,-13.2309104419,NR,
+Confirmed,1,Sierra Leone,8.4619884034,-13.2329617787,NR,No
+Confirmed,1,Sierra Leone,8.4593749467,-13.2284815531,NR,NR
+Confirmed,1,Sierra Leone,8.4806828005,-13.2665801237,NR,No
+Probable,2,Liberia,6.4091935349,-10.6023215581,NR,
+Probable,2,Liberia,6.4128440549,-10.6030297238,Fatal,0
+Probable,2,Liberia,6.4099529818,-10.6059009335,Fatal,0
+Probable,2,Liberia,6.4088543949,-10.6033935633,Fatal,0
+Probable,2,Liberia,6.4098957593,-10.6050853427,Fatal,0
+Probable,2,Liberia,6.4090814768,-10.6031420285,Fatal,0
+Probable,2,Liberia,6.4092681003,-10.6039612156,NR,
+Suspected,3,Guinea,9.5202053319,-13.7011937499,NR,NR
+Suspected,3,Guinea,9.5197340778,-13.7004737226,NR,NR
+Suspected,3,Guinea,9.5160562272,-13.6998930398,NR,NR
+Suspected,3,Guinea,9.5210510505,-13.6972230711,NR,NR
+Suspected,3,Guinea,8.5633319406,-10.1333792183,NR,NR
+Suspected,3,Guinea,8.564455592,-10.1284707533,NR,NR
+Confirmed,1,Guinea,8.5608708975,-10.1316860798,Fatal,Deceased
+Confirmed,1,Guinea,10.6527855844,-9.8760215568,NR,NR
+Confirmed,1,Guinea,11.0547631267,-12.3930571094,NR,NR
+Confirmed,1,Guinea,7.7578087175,-8.8149747729,Fatal,Deceased
