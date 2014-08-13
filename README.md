@@ -20,3 +20,5 @@ AAJA 2014 Day of Data!
 [Loading GeoJSON](https://www.mapbox.com/mapbox.js/example/v1.0.0/load-geojson/)
 
 [Mapbox's GeojSON Specs](https://www.mapbox.com/mapbox.js/api/v2.0.1/l-geojson/)
+
+[Chicago Tribune's Map-Making Guide in 5 Steps](https://github.com/newsapps/making-maps-demo)
