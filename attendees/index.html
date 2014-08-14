@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+    <style>
+        html, body, #map { height: 100%; width: 100%; }
+        img.leaflet-marker-icon.leaflet-zoom-animated.leaflet-clickable {
+            width: 64px;
+            height: 64px;
+            border-radius: 32px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <script>
+
+        var map = L.mapbox.map('map', 'derrr.j7hjgj8m', {
+            accessToken: 'pk.eyJ1IjoiZGVycnIiLCJhIjoiVElPdzg3byJ9.lQkyzOOffLzqfZL-4K7H6g'
+            });
+
+        var attendees = [
+            ['Emma Carew Grovum', 'emmacarew', 'https://pbs.twimg.com/profile_images/2190277309/star.wars.emma.jpg', 37.46455, 126.67435],
+            ['Alisha Ramos', 'alishalisha', 'https://pbs.twimg.com/profile_images/499383947449479169/LVA3eS1x.jpeg', 38.8842408, -77.1720645],
+            ['Maureen Linke', 'maureenlinke', 'https://pbs.twimg.com/profile_images/428152934442868737/pHkN-BY4.jpeg', 38.804072, -77.046406],
+            ['Mai Hoang', 'maiphoang', 'https://pbs.twimg.com/profile_images/490584563089821696/q-Co-Ksd.jpeg', 46.5940609,-120.5480901],
+            ['Grace Rogers', 'grace_rog', 'https://pbs.twimg.com/profile_images/499638381018890240/H2sHBwrK.jpeg', 38.900159,-77.263014],
+            ['Adrienne Lu', 'adriennelu', 'https://pbs.twimg.com/profile_images/3758586446/d4346ec4f732afa8151e7bb7d6e7aa86.jpeg', 40.9352911, -72.9891154],
+            ['Jenny', 'thepapaya', 'https://pbs.twimg.com/profile_images/378800000122424493/a74739893724c25f9683bc2060dbd761.jpeg', 40.717429, -73.993803],
+            ['Elizabeth Scheltens', 'elizalive', 'https://pbs.twimg.com/profile_images/439657484727242752/qFdWrA0u.jpeg', 39.755344, -84.191171],
+            ['Jed', 'JedSkim', 'https://pbs.twimg.com/profile_images/444123306354958336/476xd4go.jpeg', 34.107742, -118.288887],
+            ['Nick Liao', 'nickliao', 'https://pbs.twimg.com/profile_images/462973438651428864/xEWdoof1.png', 29.595345, -95.1012049],
+            ['Katelyn P', 'kpolantz', 'https://pbs.twimg.com/profile_images/378800000392547100/ae92925aef4e52ff6cc81d106f8d79bc.jpeg', 40.308812, -78.942766],
+            ['Lai', 'catsandcamels', 'https://pbs.twimg.com/profile_images/378800000851633732/ac29ac283f05e3f02946fe1ee2231c78.jpeg', 38.928711, -77.032454],
+            ['Ariel Min', 'ariellamin', 'https://pbs.twimg.com/profile_images/452471906139385856/TA0SMueC.jpeg', 30.269841, -97.747050],
+            ['Julianne Chiaet', 'JuliChiaet', 'https://pbs.twimg.com/profile_images/378800000748853274/fc20f6926133ec524684d3650ea97123.jpeg', 40.75058, -73.99358],
+            ['Jim Webb', 'jimwebb', 'https://pbs.twimg.com/profile_images/1697869404/IMG_1993.jpg', 35.2031535,-80.8395259],
+            ['Gary', 'garykebbel', 'https://pbs.twimg.com/profile_images/52384201/Hi.jpg', 40.800609,-96.6907283],
+            ['Nicole Gaddie', 'NicoleGaddie', 'https://pbs.twimg.com/profile_images/498869099573686272/UBL9CAK-.jpeg', 38.893596,-77.014576],
+            ['Shannon Firth', 'shannonfirth', 'https://pbs.twimg.com/profile_images/1512309209/linked_in_photo2BW.jpg', 32.877828,-96.867122],
+            ['Lisa', 'lmacabasco', 'https://pbs.twimg.com/profile_images/472172351266648064/Yjj8EiPO.jpeg', 37.7577,-122.4376]
+        ];
+
+        attendees.forEach(function(attendee) {
+            var latLng = [attendee[3], attendee[4]];
+
+            var icon = L.icon({
+                iconUrl: attendee[2],
+                iconSize: [64, 64],
+            });
+
+            var popup = L.popup({
+                offset: L.point(0, -20)
+            });
+
+            L.marker(latLng, {icon: icon})
+                .on('click', function(e) {
+                    popup
+                        .setLatLng(e.latlng)
+                        .setContent('<h5>' + attendee[0] + '</h5>' + '<h6><a href="https://twitter.com/' + attendee[1] + '">@' +
+                                attendee[1] + '</a></h6>')
+                        .openOn(map);
+                })
+                .addTo(map);
+        });
+
+    </script>
+</body>
+</html>
