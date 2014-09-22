@@ -4,8 +4,11 @@ angular.module('talkyApp.services', [])
 .service('slideData', [function() {
 
     var slides = [{
-        title: '@dereklieu',
-        decks: ['Tweet me your name and lat/lng of the city you\'re from!']
+        title: '@dereklieu'
+    },{
+        title: 'http://lieu.io/talks'
+    },{
+        title: 'Code: http://bit.ly/1pbg539'
     },{
         title: 'http://bit.ly/1prEqlN'
     },{
