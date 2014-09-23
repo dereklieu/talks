@@ -358,7 +358,7 @@ h4,
 h6,
 p,
 span {
-  font-family: 'Duru Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: 'Duru Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 6em;
@@ -385,6 +385,16 @@ h2 {
 .lavender {
   background: lavender;
 }
+.waycool {
+  background-color: #ee3a52;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ff512f), to(#dd2476));
+  background-image: -webkit-linear-gradient(top, #ff512f, #dd2476);
+  background-image: -moz-linear-gradient(top, #ff512f, #dd2476);
+  background-image: -o-linear-gradient(top, #ff512f, #dd2476);
+  background-image: -ms-linear-gradient(top, #ff512f, #dd2476);
+  background-image: linear-gradient(top, #ff512f, #dd2476);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, StartColorStr='#ff512f', EndColorStr='#dd2476');
+}
 .slide {
   height: 100%;
   width: 100%;
@@ -400,6 +410,11 @@ h2 {
 .slide > h1,
 .slide h2 {
   margin: 0.67em 0 0.67em 8%;
+}
+.slide > .hero {
+  text-align: center;
+  padding-top: 10%;
+  margin: 0.67em 0;
 }
 .slide.ng-hide-add,
 .slide.ng-hide-remove {
@@ -426,10 +441,6 @@ h2 {
 }
 .img-wrap > img {
   width: 100%;
-}
-.hero {
-  text-align: center;
-  padding-top: 10%;
 }
 .timer {
   position: fixed;
