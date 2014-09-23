@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Base Map</title>
+
+    <!-- Say hello! This is an html comment! -->
+    <!-- That means it doesn't show up in your browser -->
+
+    <!-- we're using leaflet for this example, so we need to load some css -->
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+
+    <!-- we're defining some basic styles for our page -->
+    <style>
+      html, body { height: 100%; font-family: Helvetica, Arial; color: #333; }
+      #map { width: 100%; height: 100%; }
+      #loading { text-align: center; margin-top: 30%; font-size: 11px; }
+
+      /* CSS comments are a bit different. */
+      /* This over-writes the default leaflet background color */
+      .leaflet-container { background: none; }
+    </style>
+
+  </head>
+  <body>
+
+    <!-- this is the container where we put our map -->
+    <div id="map">
+    </div>
+
+    <!-- loading d3 core library -->
+    <!-- latest version at http://d3js.org/ -->
+    <!-- documentation at https://github.com/mbostock/d3/wiki -->
+    <script src="lib/leaflet/leaflet-src.js"></script>
+
+    <!-- simple geojson file containing one variable named 'data' -->
+    <script src="data/2010_us_20m.js"></script>
+
+    <!-- now we're starting to write our custom code in javascript -->
+    <!-- why do we put javascript files at the end of our html? -->
+    <!-- short answer, so it only runs when the page is ready! -->
+    <script>
+      // javascript comments are a little different than HTML comments!
+
+      // Take a peek at our data, which we loaded above as a script tag.
+      // To do so, you'll have to open your web console.
+      // Chrome: command + option + J (mac), control + shift + J (win/linux)
+      // Firefox: command + option + K (mac), control + shift + K (win/linux)
+      console.log(data);
+
+      // This is how you create a map in leaflet.
+      // Since we're only looking at the United States, we feed it a lat/lon
+      // and zoom level that centers us on the US.
+      var map = L.map('map', {
+        center: [38.430118, -100.802063],
+        zoom: 4
+      });
+
+      // Attach geojson to the map. If you examine the data in your console,
+      // you'll see that each county has a properties object containing
+      // county name, state number, etc. We use one of those properties
+      // to create a simple color gradient
+      L.geoJson(data, {
+        style: function(d) {
+          var b = +d.properties.STATE * 4;
+          return {
+            color: '#AAA',
+            weight: 1,
+            fillColor: 'rgb(150,150,' + b + ')'
+          }
+        }
+      }).addTo(map);
+
+    </script>
+
+  </body>
+</html>
