@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Base D3 Map</title>
+    <style>
+      html, body { height: 100%; font-family: Helvetica, Arial; color: #333; }
+      #map { width: 100%; height: 100%; }
+      #loading { text-align: center; margin-top: 30%; font-size: 11px; }
+      .county {
+        fill: none;
+        stroke: #AAA;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+      }
+    </style>
+
+  </head>
+  <body>
+
+    <div id="map">
+      <p id="loading">Almost done...</p>
+    </div>
+
+    <!-- loading d3 core library -->
+    <!-- latest version at http://d3js.org/ -->
+    <!-- documentation at https://github.com/mbostock/d3/wiki -->
+    <script src="lib/d3/d3.min.js" charset="UTF-8"></script>
+
+    <!-- simple geojson file containing one variable named 'data' -->
+    <script src="data/2010_us_20m.js"></script>
+
+    <script>
+      console.log(data);
+      var width = 960;
+      var height = 800;
+      var path = d3.geo.path()
+
+      // To create a color scale based on the area of a county's polygon,
+      // we first need to make a list of all the polygon sizes.
+      // We do this using d3's geo.path.area function
+      // https://github.com/mbostock/d3/wiki/Geo-Paths#path_area
+      var areas = data.features.map(function(feature) {
+        return path.area(feature);
+      });
+
+      // Now we're set to create a quantile scale.
+      // More on quantile scales:
+      // https://github.com/mbostock/d3/wiki/Quantitative-Scales#quantile-scales
+      // More on quantiles: http://en.wikipedia.org/wiki/Quantile
+      // These colors are from colorbrewer2.org
+      var fill = d3.scale.quantile()
+        .domain(areas)
+        .range(['rgb(255,255,212)','rgb(254,217,142)','rgb(254,153,41)','rgb(217,95,14)','rgb(153,52,4)']);
+
+      var svg = d3.select('#map').append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+      // The rest of the code is similar to what you've seen in base-d3.html.
+      // The only difference is that now we return the color representation
+      // of the feature's area, again computing it using geo.path.area,
+      // then passing the result through fill, which, remember, is a scale.
+      svg.selectAll('path')
+        .data(data.features)
+      .enter().append('path')
+        .attr('class', 'county')
+        .style('fill', function(d) { return fill(path.area(d)) })
+        .attr('d', path);
+
+      d3.select('#loading').style('display', 'none');
+    </script>
+
+  </body>
+</html>
