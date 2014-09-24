@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Base D3 Map</title>
+    <style>
+      html, body { height: 100%; font-family: Helvetica, Arial; color: #333; }
+      #map { width: 100%; height: 100%; }
+      #loading { text-align: center; margin-top: 30%; font-size: 11px; }
+      .counties {
+        fill: none;
+        stroke: #AAA;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+      }
+      .circles {
+        fill: #00cc9a;
+        fill-opacity: .5;
+        stroke: #fff;
+        stroke-width: .5px;
+      }
+      #name {
+        position: fixed;
+        left: 10px;
+        top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div id="map">
+      <p id="loading">Almost done...</p>
+    </div>
+
+    <!-- placing place-holder for county name -->
+    <label id="name"></label>
+
+    <!-- loading d3 core library -->
+    <!-- latest version at http://d3js.org/ -->
+    <!-- documentation at https://github.com/mbostock/d3/wiki -->
+    <script src="lib/d3/d3.min.js" charset="UTF-8"></script>
+
+    <!-- loading topojson client-side JS library -->
+    <!-- this is used to convert topojson back to geojson -->
+    <script src="lib/topojson/topojson.js"></script>
+
+    <!-- simple geojson file containing one variable named 'data' -->
+    <script src="data/2010_us_20m_topojson.js"></script>
+
+    <script>
+      var data = topojson.feature(data, data.objects['2010_us_20m']);
+      console.log(data);
+
+      var width = 960;
+      var height = 800;
+      var path = d3.geo.path()
+
+      var areas = data.features.map(function(feature) {
+        return path.area(feature);
+      });
+
+      var scale = d3.scale.sqrt()
+        .domain(d3.extent(areas))
+        .range([.5, 20]);
+
+      var svg = d3.select('#map').append('svg')
+        .attr('width', width)
+        .attr('height', height);
+
+      svg.append('g')
+        .attr('class', 'circles')
+      .selectAll('circle')
+        .data(data.features)
+      .enter().append('circle')
+        .attr('transform', function(d) { return 'translate(' + path.centroid(d) + ')'; })
+        .attr('r', function(d) { return scale(path.area(d)); })
+        .on('mouseover', function(d) {
+          d3.select('#name').text(d.id);
+        })
+        .on('mouseout', function() {
+          d3.select('#name').text('');
+        });
+
+      d3.select('#loading').style('display', 'none');
+    </script>
+
+  </body>
+</html>
