@@ -4,19 +4,19 @@ angular.module('talkyApp.services', [])
 .service('slideData', [function() {
 
     var slides = [{
-        title: 'TOPO-what?'
+        hero: 'topo-what?',
+        imgUrl: 'topowhat.gif',
+        cls: 'bg-img'
     },{
-        title: 'what-JSON?'
+        hero: 'jay-what?',
+        imgUrl: 'jaywhat.gif',
+        cls: 'bg-img inverted'
     },{
-        title: 'what-end?',
-        decks: [
-            'Front-end is actually kind of a misnomer'
-        ]
+        hero: 'what-end?',
+        imgUrl: 'navywhat.gif',
+        cls: 'bg-img inverted'
     },{
         title: 'whatever-end',
-        decks: [
-            'But the complex stuff lives on the front-end'
-        ]
     },{
         title: 'whatever-it-takes--end',
         decks: [
