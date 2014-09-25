@@ -3,7 +3,7 @@
 <HEAD>
     <meta charset="utf-8">
     <title>Map Time</title>
-    <link href="http://fonts.googleapis.com/css?family=Duru+Sans|Crete+Round:400,400italic" rel="stylesheet" type="text/css">
+    <!-- link href="http://fonts.googleapis.com/css?family=Duru+Sans|Crete+Round:400,400italic" rel="stylesheet" type="text/css" -->
     <link href="css/visibility.css" rel="stylesheet" type="text/css" />
 </HEAD>
 
@@ -14,12 +14,25 @@
 
             <!-- slides -->
             <div data-ng-repeat="slide in slides" data-ng-show="current == $index" data-ng-class="slide.cls" class="relative slide">
+
                 <div data-ng-if="slide.imgUrl" class="img-wrap">
-                    <img data-ng-src="{{slide.imgUrl}}" />
+                    <img data-ng-src="img/{{slide.imgUrl}}" />
                 </div>
+
                 <h1 data-ng-if="slide.hero" class="hero">{{slide.hero}}</h1>
                 <h1 data-ng-if="slide.title" class="mid">{{slide.title}}</h1>
                 <h2 data-ng-if="slide.decks" data-ng-repeat="deck in slide.decks">{{deck}}</h2>
+
+                <div data-ng-if="slide.smallImgUrl" class="lower-img-wrap">
+                    <img data-ng-src="img/{{slide.smallImgUrl}}" />
+                </div>
+
+                <div data-ng-if="slide.vidUrl" class="vid-wrap">
+                    <video controls>
+                        <source data-ng-src="{{slide.vidUrl}}" type="video/mp4" />
+                    </video>
+                </div>
+
             </div>
 
         </div>
