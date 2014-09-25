@@ -4,15 +4,19 @@ angular.module('talkyApp.services', [])
 .service('slideData', [function() {
 
     var slides = [{
-        title: 'Much Maps'
+        title: 'Much Maps',
+        decks: ['@jue_yang', '@dereklieu'],
+        cls: 'inverted'
     },{
-        title: 'So how much map you got?'
+        title: 'So how much map you got?',
+        imgUrl: 'window.jpg',
+        cls: 'bg-img'
     },{
         title: '1 or 2 maps?',
-        decks: ['Everything\'s cool, Donnie', 'Just make \'em in Tilemill']
+        decks: ['Make \'em in Tilemill', 'Drink champagne']
     },{
         title: '2 - 5 maps?',
-        decks: ['Make \'em in Tilemill', 'But choose colors very wisely']
+        decks: ['Make \'em in Tilemill', 'Choose colors wisely']
     },{
         title: '6 to... 10 maps?',
         decks: ['Make \'em in Tilemill', 'Complain to HR']
@@ -21,22 +25,12 @@ angular.module('talkyApp.services', [])
         smallImgUrl: 'nonono.gif'
     },{
         title: 'I got 99 mapping problems',
-        decks: ['Too bad Al Shaw\'s not here to help me']
-    },{
-        title: 'Disclaimer',
-        decks: ['Maybe this wasn\'t the best?', 'Nnnnnnnnnyyyeahhhh don\'t know'],
+        decks: ['Too bad Al Shaw\'s not here to help me'],
         cls: 'inverted'
-    },{
-        imgUrl: 'davie_bowie.jpg'
-    },{
-        hero: 'Defining the problem',
-        cls: 'waycool'
     },{
         imgUrl: 'geographies.png'
     },{
         imgUrl: 'legislative_geographies.png'
-    },{
-        imgUrl: 'no_idea.gif'
     },{
         title: 'x 6 years',
         decks: ["['2008', '2009', '2010', '2011', '2012', '2013']"]
@@ -49,12 +43,12 @@ angular.module('talkyApp.services', [])
     },{
         vidUrl: 'vid/mortgage_data.mp4'
     },{
-        imgUrl: 'fuuuuu.gif'
+        imgUrl: 'no_idea.gif'
     },{
         title: 'Our beloved stack',
-        decks: ['Tilemill tiles, Mapbox.com hosting, Leaflet.js interaction']
+        decks: ['Tile Maps, Mapbox.com hosting, Leaflet.js interaction']
     },{
-        hero: 'Tilemill Data-Binding',
+        hero: 'Tile Maps',
         imgUrl: 'buildings.png',
         cls: 'bg-img inverted'
     },{
@@ -89,16 +83,32 @@ angular.module('talkyApp.services', [])
     },{
         imgUrl: 'config.png'
     },{
-        title: '3. Write mundane javascript and dumb python',
-        decks: ['The python must be dumb in a smart way though']
+        title: '3. Make mundane javascript and dumb python',
+        decks: ['The python must be dumb in a smart way']
     },{
         imgUrl: 'dumbjs.png'
     },{
-        title: '4. Write it so you can make it all over again'
+        imgUrl: 'clickdata.png'
     },{
-        title: '//makefile'
+        imgUrl: 'mapdata.png'
     },{
-        title: 'Drawbacks to this approach'
+        title: '4. Make it write itself'
+    },{
+        imgUrl: 'fuuuuu.gif'
+    },{
+        imgUrl: 'lookup.png'
+    },{
+        title: 'makefile.png'
+    },{
+        title: 'Disclaimer',
+        decks: ['Maybe this wasn\'t the best?', 'Nnnnnnnnnyyyeahhhh don\'t know'],
+        cls: 'waycool'
+    },{
+        imgUrl: 'davie_bowie.jpg'
+    },{
+        imgUrl: 'Good because you can set it and forget it'
+    },{
+        imgUrl: 'Bad because it makes you crazy'
     }];
 
 
@@ -106,53 +116,3 @@ angular.module('talkyApp.services', [])
 }])
 
 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
