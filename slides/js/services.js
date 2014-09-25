@@ -13,13 +13,13 @@ angular.module('talkyApp.services', [])
         cls: 'bg-img'
     },{
         title: '1 or 2 maps?',
-        decks: ['Make \'em in Tilemill', 'Drink champagne']
+        decks: ['Make Tile Maps', 'Drink champagne']
     },{
         title: '2 - 5 maps?',
-        decks: ['Make \'em in Tilemill', 'Choose colors wisely']
+        decks: ['Make Tile Maps', 'Choose colors wisely']
     },{
         title: '6 to... 10 maps?',
-        decks: ['Make \'em in Tilemill', 'Complain to HR']
+        decks: ['Make Tile Maps', 'Complain to HR']
     },{
         title: '11 to →∞ maps?',
         smallImgUrl: 'nonono.gif'
@@ -98,7 +98,7 @@ angular.module('talkyApp.services', [])
     },{
         imgUrl: 'lookup.png'
     },{
-        title: 'makefile.png'
+        imgUrl: 'makefile.png'
     },{
         title: 'Disclaimer',
         decks: ['Maybe this wasn\'t the best?', 'Nnnnnnnnnyyyeahhhh don\'t know'],
@@ -106,9 +106,9 @@ angular.module('talkyApp.services', [])
     },{
         imgUrl: 'davie_bowie.jpg'
     },{
-        imgUrl: 'Good because you can set it and forget it'
+        title: 'Good because you can set it and forget it'
     },{
-        imgUrl: 'Bad because it makes you crazy'
+        title: 'Bad because it makes you crazy'
     }];
 
 
