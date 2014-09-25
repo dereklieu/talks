@@ -20,6 +20,7 @@
                 </div>
 
                 <h1 data-ng-if="slide.hero" class="hero">{{slide.hero}}</h1>
+                <marquee data-ng-if="slide.marquee"><h1>{{slide.marquee}}</h1></marquee>
                 <h1 data-ng-if="slide.title" class="mid">{{slide.title}}</h1>
                 <h2 data-ng-if="slide.decks" data-ng-repeat="deck in slide.decks">{{deck}}</h2>
 

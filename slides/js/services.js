@@ -6,29 +6,27 @@ angular.module('talkyApp.services', [])
     var slides = [{
         hero: 'topo-what?',
         imgUrl: 'topowhat.gif',
-        cls: 'bg-img'
+        cls: 'bg-img inverted'
     },{
         hero: 'jay-what?',
         imgUrl: 'jaywhat.gif',
         cls: 'bg-img inverted'
     },{
         hero: 'what-end?',
-        imgUrl: 'navywhat.gif',
+        imgUrl: 'cat_screen.gif',
         cls: 'bg-img inverted'
     },{
-        title: 'whatever-end',
+        hero: 'whatever-end',
+        imgUrl: 'whatever.gif',
+        cls: 'bg-img inverted'
     },{
-        title: 'whatever-it-takes--end',
-        decks: [
-            'This way kind of sucks',
-            'But other ways suck in different ways'
-        ],
-        cls: 'lightsalmon'
+        hero: 'whatever-it-takes-end',
+        imgUrl: 'ruthless.gif',
+        cls: 'bg-img inverted'
     },{
-        title: 'way cool',
-        cls: 'waycool'
-    },{
-
+        marquee: 'the-end',
+        imgUrl: 'funvader.gif',
+        cls: 'bg-img inverted'
     }];
 
     return slides;
