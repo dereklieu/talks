@@ -5,6 +5,6 @@ angular.module('talkyApp.controllers', [])
 .controller('SlideCtrl', ['$scope', 'slideData', function($scope, slideData) {
     $scope.slides = slideData;
     $scope.length = $scope.slides.length;
-    $scope.current = slideData.length-1;
+    $scope.current = 0;
 }])
 ;
