@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- NOT COMPLETED YET! -->
 <html>
   <head>
     <title>Base D3 Map</title>
@@ -18,6 +17,9 @@
         fill-opacity: .5;
         stroke: #fff;
         stroke-width: .5px;
+      }
+      line {
+        stroke: #999;
       }
     </style>
 
@@ -38,29 +40,80 @@
 
       var width = 960;
       var height = 800;
-      var path = d3.geo.path()
+      var path = d3.geo.path();
 
-      var areas = data.features.map(function(feature) {
-        return path.area(feature);
+      // Creating a new list to hold our bubble data.
+      var nodes = [];
+      for(var i = 0, ii = data.features.length; i < ii; ++i) {
+        var centroid = path.centroid(data.features[i]);
+
+        if (isNaN(centroid[0])) continue;
+
+        centroid.x = centroid[0];
+        centroid.y = centroid[1];
+        centroid.feature = data.features[i];
+        centroid.area = path.area(centroid.feature);
+
+        nodes.push(centroid);
+      }
+
+      // Sort the list we just created in order of
+      // descending area
+      nodes = nodes.sort(function(a, b) {
+        return b.area - a.area
       });
 
+      // Since our list is now sorted, we can fill in the domain
+      // using the last value as the min and the first value as
+      // the max
       var scale = d3.scale.sqrt()
-        .domain(d3.extent(areas))
+        .domain([nodes[nodes.length-1].area, nodes[0].area])
         .range([.5, 20]);
+
+      var links = [];
+      d3.geom.voronoi().links(nodes).forEach(function(link) {
+        var dx = link.source.x - link.target.x,
+          dy = link.source.y - link.target.y;
+        link.distance = Math.sqrt(dx * dx + dy * dy)
+        links.push(link);
+      });
+
+      var force = d3.layout.force()
+        .size([width, height])
+        .gravity(0)
+        .nodes(nodes)
+        .links(links)
+        .linkDistance(function(d) { return d.distance; })
+        .charge(0)
+        .start();
 
       var svg = d3.select('#map').append('svg')
         .attr('width', width)
         .attr('height', height);
 
-      svg.append('g')
+      var bubbles = svg.selectAll('g')
+        .data(nodes)
+      .enter().append('g')
         .attr('class', 'circles')
-      .selectAll('circle')
-        .data(data.features)
-      .enter().append('circle')
-        .attr('transform', function(d) { return 'translate(' + path.centroid(d) + ')'; })
-        .attr('r', function(d) { return scale(path.area(d)); })
-
+        .attr('transform', function(d) {
+          return 'translate(' + -d.x + ',' + -d.y  + ')'
+        })
+        .call(force.drag)
+      .append('circle')
+        .attr('r', function(d) { return scale(d.area); })
+        .attr('transform', function(d) {
+          return 'translate(' + d.x + ',' + d.y + ')';
+        })
+        .attr('cx', function(d) { return d.x })
+        .attr('cy', function(d) { return d.y })
       ;
+
+      force.on('tick', function(e) {
+        bubbles.attr('transform', function(d) {
+          return 'translate(' + d.x + ',' + d.y + ')';
+        });
+      });
+
       d3.select('#loading').style('display', 'none');
 
     </script>
