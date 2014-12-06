@@ -71,6 +71,12 @@ One of the inherently cool things about maps is their level of detail. A good ma
 
 From the onset, map technology has exposed different zoom layers of information - that at the county, country, state, and planet. We have data at each of those levels, and if you think of each zoom level as a different summary of humanity, map technology makes it easy to switch between them.
 
+## By the way
+
+[Afghanistan election fraud](http://2014.afghanistanelectiondata.org/runoff/#home)
+
+Its pretty easy to know where fraud happened in an Afghanistan election.
+
 ## Where is mapping a concern?
 
 ### When it equates people with area
@@ -87,6 +93,20 @@ Area does not equal population. Land mass does not equal human mass.
 
 ### When it tries to do too much
 
-
+[NYC taxicab](http://nyctaxi.herokuapp.com/)
 
 Just because you can map a large amount of data, does not mean that you should.
+
+## When you should map one way and not another
+
+When should you do a static map? Satellite? Slippy?
+
+[One of my favorite, simple maps: change in uninsured Americans](http://www.nytimes.com/interactive/2014/10/29/upshot/obamacare-who-was-helped-most.html)
+
+And a way to keep it simple on mobile, which is always important. [DC Homicide Map](http://apps.washingtonpost.com/investigative/homicides/).
+
+## Yo
+
+Satellites, yo [ISIS attack on oil refinery](http://www.developmentseed.org/blog/2014/06/25/iraq-oil-fire/)
+
+[Bl.ocks.org](http://bl.ocks.org/)
