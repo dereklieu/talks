@@ -1,0 +1,26 @@
+.logo {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.reveal .logo img {
+  border: none;
+  box-shadow: none;
+}
+
+.yellow {
+  color: yellow !important;
+}
+
+.urchn {
+  color: #F5BC40 !important;
+}
+
+.light {
+  color: #DDDDDD !important;
+}
+
+.white {
+  color: #FFFFFF !important;
+}

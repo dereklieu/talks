@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/white.min.css">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+
+        <section>
+          <h2>Keeping up with urban change</h2>
+          <p><a href="https://twitter.com/dereklieu">@dereklieu</a> • Development Seed</p>
+          <div class="logo">
+            <img src="https://developmentseed.org/assets/graphics/layout/ds-logo-pos.svg">
+          </div>
+        </section>
+
+        <section>
+          <p>Rapid urban change means your maps are probably wrong.</p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1480842/38708004-1397a848-3e82-11e8-83a3-dfe8df85b2c1.jpg">
+          <h1 class="yellow">1. Where?</h1>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44899087-7c81ea80-ad09-11e8-9173-bc27cc374a23.jpg">
+          <h1 class="yellow">2. By how much?</h1>
+        </section>
+
+        <section>
+          <p>We built a tool for these questions. It's called <span class="urchn">Urchn</span>, which is short for <span class="urchn">UR</span>ban <span class="urchn">CH</span>a<span class="urchn">N</span>ge.</p>
+        </section>
+
+        <section>
+          <p>We partnered with Radiant, formerly Digital Globe, and Azavea. <span class="light">(Radiant came up with the name)</span></p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44838149-18e1b980-ac44-11e8-8ab4-bc2e55634570.jpg">
+          <p class="yellow">Urchn starts with persistent change.</p>
+        </section>
+
+        <section>
+          <p>We do pixel analysis on time series Sentinel and Landsat imagery.</p>
+          <p>It works by examining three consecutive, cloud-free images.</p>
+          <p>If a change persists in all three, we look back at three <strong>prior</strong> images for confirmation.</p>
+        </section>
+
+        <section>
+          <p>This tells us where a change occurred, and when.</p>
+        </section>
+
+        <!-- Madrid stadium example -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855134-13e82e80-ac73-11e8-9668-da7aac39a6f0.jpg">
+          <p>2017 02 09</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855135-1480c500-ac73-11e8-9e5a-431eea393bed.jpg">
+          <p>2017 02 15</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855136-1480c500-ac73-11e8-8311-b68f167f1a7c.jpg">
+          <p>2017 02 20</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855137-1480c500-ac73-11e8-9bf0-7b70d6c0c173.jpg">
+          <p>2017 03 11</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855138-15195b80-ac73-11e8-8ca1-5399174ef234.jpg">
+          <p>2017 03 16</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855139-15195b80-ac73-11e8-8196-48861695ebc9.jpg">
+          <p>2017 07 19</p>
+        </section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855133-13e82e80-ac73-11e8-9589-b6353715ee00.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44855145-164a8880-ac73-11e8-9121-2e8dab589a58.jpg"></section>
+
+        <section>
+          <p>We also aggregate, by tile and admin boundary.</p>
+        </section>
+
+        <!-- PCM and OSM aggregates -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44861935-5107ed00-ac82-11e8-8713-08c3122d967e.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44861933-5107ed00-ac82-11e8-8692-2d921d996d53.jpg"></section>
+
+
+        <section>
+          <p>We're interested in a few use cases.</p>
+        </section>
+
+        <section>
+          <p>1. Identify where are official maps are out of date.</p>
+        </section>
+
+        <!-- Tirana survey -->
+        <section data-background-image="https://user-images.githubusercontent.com/1480842/38707558-cec6b35a-3e7f-11e8-91c8-60cf7ccd6606.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44897404-36765800-ad04-11e8-8a46-679319b75bcb.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44898109-9110b380-ad06-11e8-96db-edef0f570540.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44898276-198f5400-ad07-11e8-987b-df26346346ef.jpg"></section>
+
+        <section>
+          <p>2. Identify where OSM is out of date.</p>
+        </section>
+
+        <!-- OSM examples -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44860780-befee500-ac7f-11e8-9b1e-b508df928777.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/38949293-f83bbe4e-430f-11e8-9400-e6e8d551999d.png"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44861434-3123f980-ac81-11e8-9dc5-3ed5cab00ebd.jpg"></section>
+        <section data-background-image="https://user-images.githubusercontent.com/1480842/38708004-1397a848-3e82-11e8-83a3-dfe8df85b2c1.jpg"></section>
+
+        <section>
+          <p><a href="https://github.com/azavea/osmesa">github.com/azavea/osmesa</a></p>
+          <p><3 Azavea</p>
+        </section>
+
+        <section>
+          <p>Here are a few more ideas we're experimenting with.</p>
+        </section>
+
+        <section>
+          <p>1. Predicted building footprint area using machine learning.</p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44899379-44c77280-ad0a-11e8-9238-d0be009cc668.gif"></section>
+
+        <section>
+          <p>2. Urban land-use classification</p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44899586-d59e4e00-ad0a-11e8-875d-88de314e5774.jpg"></section>
+
+        <section>
+          <p>3. Whatever else you've got?</p>
+        </section>
+
+        <section>
+          <p>Release goals:</p>
+          <ul>
+            <li>Open-source mapping platform code</li>
+            <li>Open-source aggregation code</li>
+            <li>Browseable Osmesa data globally</li>
+            <li>Change data via some money-making scheme, possibly subscription</li>
+            <li>Public beta release by SOTM Detroit, Oct 5 2018</p>
+        </section>
+
+        <section>
+          <p>Challenges:</p>
+          <ul>
+            <li>Improve recognition of re-development</li>
+            <li>Improve aggregation speed to keep up with Osmesa</li>
+          </ul>
+        </section>
+
+        <section>
+          <p>If you could design a tool to monitor urban change, what would it tell you?</p>
+        </section>
+
+        <!-- DC overview past -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734718-3c491f00-aaf3-11e8-8743-24a1917de6bb.jpg">
+          <p class="yellow">Let's end on a game.
+          <p class="yellow">Identify everything that's changed between one image...</p>
+        </section>
+        <!-- DC overview present -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734721-3c491f00-aaf3-11e8-812e-b0f3422d30be.jpg">
+          <p class="yellow">...and the next.</p>
+        </section>
+
+        <!-- Harris Teeter past -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734708-3b17f200-aaf3-11e8-80c3-9a0130f6f61b.jpg"></section>
+        <!-- Harris Teeter present -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734710-3b17f200-aaf3-11e8-9390-bb7aaf5d16e6.jpg"></section>
+        <!-- Harris Teeter present annotated -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44736440-ee82e580-aaf7-11e8-9d5b-e6c70b6a8acb.jpg"></section>
+
+        <!-- Union Market past -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734713-3bb08880-aaf3-11e8-928d-85862ba1e99d.jpg"></section>
+        <!-- Union Market present -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44734715-3c491f00-aaf3-11e8-999a-f740ebf2aa90.jpg"></section>
+        <!-- Union Market present annotated -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44737191-f80d4d00-aaf9-11e8-8b6f-2cc57fcc2c96.jpg"></section>
+
+        <!-- Sursum Corda past -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44738094-81be1a00-aafc-11e8-8335-3a454f242bbf.jpg"></section>
+        <!-- Sursum Corda present -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44738095-81be1a00-aafc-11e8-9608-fac4dc303d49.jpg"></section>
+        <!-- Sursum Corda present annotated -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44743142-56422c00-ab0a-11e8-8f47-46a6d1f80ce0.jpg"></section>
+        <!-- Sursum Corda present annotated parking lots -->
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44742346-52ada580-ab08-11e8-81c9-de0c7f3bab5f.jpg"></section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44742752-51c94380-ab09-11e8-84b6-747b50a60869.jpg">
+          <p>This is Sursum Corda.</p>
+        </section>
+
+        <section>
+          <p>Sursum Corda is a housing cooperative for low-income residents.</p>
+        </section>
+
+        <section data-background-image="https://imageserver-bisnow1.netdna-ssl.com/RbCUUHFLMbnMzFPgoNFcIWGlh7g=/0x0/publisher/5aa2d0c86af14_Screen_Shot_2018_03_09_at_1_21_00_PM.png">
+          <p class="yellow">This is the future of Sursum Corda.</p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44837469-64936380-ac42-11e8-8e31-84ac421a0e6f.jpeg">
+          <p class="yellow">This is what it looks like now.</p>
+        </section>
+
+        <section data-background-image="https://user-images.githubusercontent.com/1590802/44745261-e636a480-ab0f-11e8-8df0-627e7349c5a4.jpg"></section>
+
+        <section>
+          <p>To me, understanding urban change means making local knowledge widely known.</p>
+        </section>
+
+        <section>
+          <p>We've love to explore what that means for you.</p>
+          <p>Thanks!</p>
+          <p><a href="mailto:derek@developmentseed.org">derek@developmentseed.org</a></p>
+        </section>
+
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
+    <script>
+      Reveal.initialize({
+        history: true
+      });
+    </script>
+  </body>
+</html>
