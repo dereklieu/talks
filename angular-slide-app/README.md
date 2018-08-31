@@ -1,6 +1,4 @@
-# Talks
-
-Angular slidedeck maker
+# Angular slidedeck maker
 
 ## Usage
 
